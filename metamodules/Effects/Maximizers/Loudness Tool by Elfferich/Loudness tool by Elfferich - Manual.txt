@@ -1,0 +1,52 @@
+Loudness Tool by Elfferich
+==========================
+
+This tool helps to get any song to a higher volume with minimal distortion or coloring to the sound.
+
+Note:
+I made this tool for the people who use sunvox and have trouble to get their songs on a 'decent' volume or if you just want to have your song a bit louder. This tool is not made to make you join the loudness war.
+
+
+Manual
+--------------------------
+
+Step 1, use the tool for your project: 
+- Open the metamodule and load your song as a module. (Modules -> Load) And connect it to the input module. (Module NO. 1)
+Note: You can still listen to your original sound by unmuting the 'Original' module. (Module NO. 9) Use this often as reference.
+- Or if you used this tool before and you already have the right settings for your song, you can connect the metamodule of the tool to the output and your song as the input.
+
+Step 2, settings the correct volume: 
+- Control the volume of the gain module (Module NO. 11) and set it so the transients go above the line of the 'pre peak analyzer' (Module NO. 7)' and that the rest stays below the line with 1/4 of space so you still have dynamics in your sound.
+
+Note: Don't go too high in volume, because that will lead in noticable distortion of the sound.
+
+Step 3, 'tame' the transients:
+- Select the 'Transient tamer'. (Module NO. 2) 
+- Set it's the slope to max. 
+- Monitor the difference between the 'pre peak analyzer' and the 'post peak analyzer' (Module NO. 5 and 7). Bring the threshold down if you don't see a difference. If theres not much dynamics (Differences in loudness over time) you should raise the threshold. The transients should still be peaking higher than the rest. 
+- If you found the right threshold, set the slope to the middle. Lower the slope if you don't have enough punch in your transients and higher the slope if the transients on the 'post peak analyzer' are too big compared to the rest.
+Tip: Unmute the 'transient detector' module (Module NO. 0D) under the 'pre peak analyzer' module to hear transients that are being compressed by the 'transient tamer' module. Mute the module when you are done.
+
+Step 4, reduce clip distortion with a soft clip limiter:
+A soft clipper can help reduce the distortion you get with hard clipping. It actually doesn't remove the distortion but softens it in a way.
+- You can choose between the 3 modules, 'Soft clip 1' (Module NO. 3) 'Soft clip 2'. (Module NO. 10) 'Soft clip 1' will cause less distortion to quieter sounds but rougher distortions to the transients. 'Soft clip 2' will cause more divided distortion through the whole sound. This choice is up to you. To choose one you simply connect the 'Post peak analyzer' to one of the two soft clip modules.
+Tip: Unmute the 'SC dist. detector' module (Module NO. 0F) to hear the reduced distortion between the original sound and the soft clip limiter. Mute the module when you are done.
+
+Step 5, the final touch with saturation (optional):
+- Unmute the 'Distortion detection' module. Set the power of the saturation module so that you barrely hear the extra harmonics.
+Note: Distortion doesn't have to be bad. It makes the sound just a bit louder	 but you don't notice that it is the distortion if used correctly.
+
+You're done now. Just tweak the parameters of the steps 2 to 5 and you should be good.
+
+If you don't get the loudness you want or you have noticable distortion:
+- If you don't get the result you want, listen to another track which has the loudness you want. And make changes as said in step 2 to 5. Don't force yourself to work on it until you have the sound in another song because the problem could be somewhere else. You can't polish a turd. It could be your mix that is unbalaned. Make sure instruments don't interfere with frequencies. And use sidechain compression where needed. Take a look at the example track: Twistboy - Good Times. There you can see the kick compresses the rest of the instruments. Mixing is just as important as mastering. Use the spectrum analyzer if you don't trust your ears.
+
+- Make sure the 'detection' amplifiers are muted. Not bypassed.
+
+- Make sure your gain is not too high.
+
+--------------------------
+
+That's it. If you still have any questions or suggestions, contact me on the sunvox forum. The username is "Elfferich".
+
+
