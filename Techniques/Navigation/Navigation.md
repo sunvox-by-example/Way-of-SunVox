@@ -1,5 +1,3 @@
-# Way of the SunVox - How to...
-
 ### Navigation
   - __Move between modules by ID__
     ```
