@@ -13,5 +13,6 @@ Link to main documentation, forum, video series, etc
 * [Forum](http://www.warmplace.ru/forum/viewforum.php?f=16)
 * [Facebook Group](https://www.facebook.com/groups/sunvox/)
 * [VK Group](https://vk.com/sunvoxtracker "")
-* [The Complete Guide to SunVox](http://sunvox-guide.readthedocs.io/en/latest/index.html)
+* [Holy Cheatsheet](https://drive.google.com/file/d/1yv9HMmACwgVWs0hZmIVdkhisFUyYYZx8/view)
+* [The Complete Guide to SunVox (inactive)](http://sunvox-guide.readthedocs.io/en/latest/index.html)
 * [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt)
