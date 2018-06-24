@@ -1,6 +1,6 @@
 This is a series that walks the user through how to make music in Sunvox, with each tutorial addressing a specific part of the process. Example sessions and screengrabs are included in each tutorial.
 
-## [0: Introduction](0-Introduction)
+# [0: Introduction](0-Introduction)
 1. [Making Sound with a Module](0-Getting-Started/1-Making-Sound-with-a-Module)
 2. [Editing Module Parameters](0-Getting-Started/2-Editing-Module-Parameters)
 3. [Adding a Pattern to the Timeline](0-Getting-Started/3-Adding-a-Pattern-to-the-timeline)
@@ -8,7 +8,7 @@ This is a series that walks the user through how to make music in Sunvox, with e
 5. [Understanding file Formats](0-Getting-Started/5-Understanding-File-Formats)
 1. [Understanding Hexadecimal](0-Getting-Started/1-Understanding-Hexadecimal)
 ---
-## [1: THE INTERFACE](1-The-Interface)
+# [1: The Interface](1-The-Interface)
 ## [The Module Section](1-The-Interface/1-The-Module_Section)
 1. [Commands](1-The-Interface/1-The-Module-Section/1-Commands)
 2. [The Matrix](1-The-Interface/1-The-Module-Section/2-The-Matrix)
@@ -26,8 +26,8 @@ This is a series that walks the user through how to make music in Sunvox, with e
 3. [Events](1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
 4. [The Interpolator](1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
 
-## [2: THE MODULES](1-The-Modules)
+# [2: The Modules](1-The-Modules)
 
-## [3: TECHNIQUES AND STRATEGY](3-techniques-and-strategy)
+# [3: Techniques and Strategy](3-techniques-and-strategy)
 
 ---
