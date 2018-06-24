@@ -1,10 +1,15 @@
 ## About Hexadecimal
 
-SunVox, like other tracker software, uses hexadecimal instead of decimal to represent numerical values. These values may correspond to controller (parameter) values in the pattern editor:
+SunVox, like other tracker software, uses hexadecimal instead of decimal to represent numerical values. These values may correspond to controller (parameter) values in the pattern editor, in this case entering the value `0c` in the `Controller` column, and `06` in the `Effect` column:
 
 ![](tut-1-4-1a.png)
 
-or Module ID's (viewable above the module in the module window), or the length of a pattern, or many places in the application where numbers are used. Some exceptions are in patterns, where line numbers (representing 16th notes) are in decimal notation, and controller values in the controller window,
+or module ID's, viewable above the module in the module window (the right section) as well as before the name of the selected module as shown in the controller window (the left section):
+
+![](tut-1-4-1b.png)
+
+or the length of a pattern, or many places in the application where numbers are used. Some exceptions are in patterns, where line numbers (representing 16th notes) are in decimal notation, and controller values in the controller window,
+
 0	| 1	| 2	| 3	| 4	| 5	| 6	| 7	| 8	| 9	| a	| b	| c	| d	| e	| f
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
