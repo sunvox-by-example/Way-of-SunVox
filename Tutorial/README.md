@@ -26,7 +26,11 @@ This is a series that walks the user through how to make music in Sunvox, with e
 3. [Events](1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
 4. [The Interpolator](1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
 
+---
+
 # [2: The Modules](1-The-Modules)
+
+---
 
 # [3: Techniques and Strategy](3-techniques-and-strategy)
 
