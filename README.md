@@ -1,8 +1,8 @@
 # Way of the SunVox
 
-Way of the SunVox is a resource for the music creation application SunVox. It is divided into 2 parts - a [tutorial](Tutorial) and [library of sunsyths](Sunsynths).
+Way of the SunVox is a resource for the music creation application SunVox. It is divided into 2 main sections - a [tutorial](Tutorial), and [library of sunsyths](Sunsynths).
 
-## Section I: Sunsynths
+## I. Sunsynths
 The [library of sunsyths](Sunsynths) is a collection of instruments, effects, presets, modules, and metamodules - anything that can produce or process sound. These are all saved as sunsynth files, which are basically a patch, similar to how you might think of a modular synth patch. One of the coolest things about SunVox is how everything is build up from module primitives native to the app, so the line between "instrument", "plugin", "preset", "UI" etc as in most music creation environments, is non-existent. SunVox sits at a level of abstraction below a traditional DAW (ie. Ableton, Logic, etc) but above a musical coding environment (ie. MaxMSP, Reaktor, SuperCollider, Pure Data, etc.) This turns out to be ideal for being able to design any sound you want in really powerful but simple interface, but not get sucked into instrument design/coding concerns, which can easily move in to replace the music making process using lower level environments.
 
 ### Subsections:
@@ -10,7 +10,7 @@ The [library of sunsyths](Sunsynths) is a collection of instruments, effects, pr
 * [Synths / Samplers](Synths_Samplers)
 
 
-## Section II: Tutorial
+## II. Tutorial
 The [tutorial](Tutorial) is comprehensive, and works from the basics up through advanced techniques for achieving different objectives in sunvox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
 
 ### Subections:
