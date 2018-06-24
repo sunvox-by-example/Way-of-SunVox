@@ -2,7 +2,8 @@
 
 ---
 
-  ![](tutorial_2-video_1.gif "Tutorial 2 Gif 1")
+  ![](tutorial_0-2_
+    video_1.gif "Tutorial 2 Gif 1")
 
 
   1. Make sure the center left section is visible as in the gif above. If it is not, the center pane has been moved all the way to the left, click and drag right on the separator to expand the section. There are three separators in the app, one horizontal and two vertical, and all each can be dragged to resize and hide the four major sections of the UI.
