@@ -1,4 +1,10 @@
+## About Hexadecimal
 
+SunVox, like other tracker software, uses hexadecimal instead of decimal to represent numerical values. These values may correspond to controller (parameter) values in the pattern editor:
+
+![](tut-1-4-1a.png)
+
+or Module ID's (viewable above the module in the module window), or the length of a pattern, or many places in the application where numbers are used. Some exceptions are in patterns, where line numbers (representing 16th notes) are in decimal notation, and controller values in the controller window,
 0	| 1	| 2	| 3	| 4	| 5	| 6	| 7	| 8	| 9	| a	| b	| c	| d	| e	| f
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
@@ -10,6 +16,12 @@
 20 | 21	| 22 | 23	| 24 | 25 | 26 | 27	| 28 | 29	| 2a | 2b	| 2c | 2d	| 2e | 2f
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47
+
+30 | 31	| 32 | 33	| 34 | 35 | 36 | 37	| 38 | 39	| 3a | 3b	| 3c | 3d	| 3e | 3f
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63
+
+...
 
 ## [Official Documentation](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en)
 A few words about hex numbers. Memory locations and software in today's computers use the hexadecimal (hex) number system which comprises sixteen distinct symbols, digits 0 - 9 and letters A, B, C, D, E, F (or a - f) where the letters represent the numbers 10 - 15. For more detail on the hexadecimal system please visit: http://en.wikipedia.org/wiki/Hexadecimal
