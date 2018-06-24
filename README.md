@@ -2,6 +2,8 @@
 
 Way of the SunVox is a resource for the music creation application SunVox. It is divided into 2 parts - a Tutorial and library of Sunsynths.
 
+Way of the SunVox is a play on "Way of the Sword", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645 while living in a cave after turning his back on anything but the study of what he called 'strategy', whether applied to warfare or the creation of art. He was undefeated in over 30 duels to the death, and after a certain number of years even began fighting with wooden kendo swords instead of metal, cosidering himself invincible. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of an aesthetic, and went on to become one of the greatest artists and poets in Japans history. 
+
 ## [Tutorial](Tutorial)
 The tutorial is intended to be comprehensive, and works from the basics up through advanced techniques for achieving different objectives in sunvox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
 
@@ -22,4 +24,4 @@ This resource exists in a Github "Repo". Generallly Github is used to host code,
 * [Holy Cheatsheet](https://drive.google.com/file/d/1yv9HMmACwgVWs0hZmIVdkhisFUyYYZx8/view)
 * [The Complete Guide to SunVox (inactive and incomplete but still has some good stuff)](http://sunvox-guide.readthedocs.io/en/latest/index.html)
 * [romax9lahin - Modules and Effects](https://github.com/romax9lahin/Sunvox-Stuff)
-* [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt)
+*

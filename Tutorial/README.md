@@ -18,7 +18,7 @@ This is a series that walks the user through how to make music in Sunvox, with e
 1. [Editing Controllers](1-The-Interface/1-The-Controller-Section/1-Editing-Controllers)
 
 ## [The Timeline Section](1-The_Interface/1-The-Timeline-Section)
-1. [Arranging Patterns](1-The-Interface/1-The-Controller-Section/1-Arranging-Patterns)
+1. [Creating and Arranging Patterns](1-The-Interface/1-The-Controller-Section/1-Creating-and-Arranging-Patterns)
 
 ## [The Pattern Editor Section](1-The_Interface/4-The-Pattern-Editor-Section)
 1. [Editing Patterns](1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
