@@ -1,4 +1,16 @@
 
+0	| 1	| 2	| 3	| 4	| 5	| 6	| 7	| 8	| 9	| a	| b	| c	| d	| e	| f
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
+
+10 | 11	| 12 | 13 | 14 | 15 | 16 | 17	| 18 | 19	| 1a | 1b	| 1c | 1d	| 1e | 1f
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31
+
+20 | 21	| 22 | 23	| 24 | 25 | 26 | 27	| 28 | 29	| 2a | 2b	| 2c | 2d	| 2e | 2f
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47
+
 ## [Official Documentation](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en)
 A few words about hex numbers. Memory locations and software in today's computers use the hexadecimal (hex) number system which comprises sixteen distinct symbols, digits 0 - 9 and letters A, B, C, D, E, F (or a - f) where the letters represent the numbers 10 - 15. For more detail on the hexadecimal system please visit: http://en.wikipedia.org/wiki/Hexadecimal
 
@@ -46,9 +58,9 @@ This is why 14 in hexadecimal corresponds to 20 in decimal:
 
 1×16+4×1=20
 When we rearrange our hex table above based on what we just learned, it looks like this:
-
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 0	| 1	| 2	| 3	| 4	| 5	| 6	| 7	| 8	| 9	| a	| b	| c	| d	| e	| f
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 10 | 11	| 12 | 13 | 14 | 15 | 16 | 17	| 18 | 19	| 1a | 1b	| 1c | 1d	| 1e | 1f
 20 | 21	| 22 | 23	| 24 | 25 | 26 | 27	| 28 | 29	| 2a | 2b	| 2c | 2d	| 2e | 2f
 
