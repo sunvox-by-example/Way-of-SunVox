@@ -21,7 +21,7 @@ This is a series that walks the user through how to make music in Sunvox, with e
 1. [Arranging Patterns](1-The-Interface/1-The-Controller-Section/1-Arranging-Patterns)
 
 ## [The Pattern Editor Section](1-The_Interface/4-The-Pattern-Editor-Section)
-1. [Creating and Editing Patterns](1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
+1. [Editing Patterns](1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
 2. [Events](1-The-Interface/4-The-Pattern-Editor-Section/2-Events)
 3. [Events](1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
 4. [The Interpolator](1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
