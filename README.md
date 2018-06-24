@@ -16,6 +16,6 @@ Link to main documentation, forum, video series, etc
 
 ## User Resources
 * [Holy Cheatsheet](https://drive.google.com/file/d/1yv9HMmACwgVWs0hZmIVdkhisFUyYYZx8/view)
-* [The Complete Guide to SunVox (inactive)](http://sunvox-guide.readthedocs.io/en/latest/index.html)
+* [The Complete Guide to SunVox (inactive and incomplete but still has some good stuff)](http://sunvox-guide.readthedocs.io/en/latest/index.html)
 * [romax9lahin - Modules and Effects](https://github.com/romax9lahin/Sunvox-Stuff)
 * [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt)
