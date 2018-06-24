@@ -1,9 +1,9 @@
 # Way of the SunVox
 
-Way of the SunVox is a resource for the music creation application SunVox. It is divided into 2 main sections - a [tutorial](Tutorial), and [library of sunsyths](Sunsynths).
+Way of the SunVox is a resource for the music creation application SunVox. It is divided into 2 main sections - a tutorial, and library of sunsyths.
 
 ## I. Sunsynths
-The [library of sunsyths](Sunsynths) is a collection of instruments, effects, presets, modules, and metamodules - anything that can produce or process sound. These are all saved as sunsynth files, which are basically a patch, similar to how you might think of a modular synth patch. One of the coolest things about SunVox is how everything is build up from module primitives native to the app, so the line between "instrument", "plugin", "preset", "UI" etc as in most music creation environments, is non-existent. SunVox sits at a level of abstraction below a traditional DAW (ie. Ableton, Logic, etc) but above a musical coding environment (ie. MaxMSP, Reaktor, SuperCollider, Pure Data, etc.) This turns out to be ideal for being able to design any sound you want in really powerful but simple interface, but not get sucked into instrument design/coding concerns, which can easily move in to replace the music making process using lower level environments.
+The library of [sunsyths](Sunsynths) is a collection of instruments, effects, presets, modules, and metamodules - anything that can produce or process sound. These are all saved as sunsynth files, which are basically a patch, similar to how you might think of a modular synth patch. One of the coolest things about SunVox is how everything is build up from module primitives native to the app, so the line between "instrument", "plugin", "preset", "UI" etc as in most music creation environments, is non-existent. SunVox sits at a level of abstraction below a traditional DAW (ie. Ableton, Logic, etc) but above a musical coding environment (ie. MaxMSP, Reaktor, SuperCollider, Pure Data, etc.) This turns out to be ideal for being able to design any sound you want in really powerful but simple interface, but not get sucked into instrument design/coding concerns, which can easily move in to replace the music making process using lower level environments.
 
 ### Subsections:
 * [Effects](Sunsynths/Effects)
@@ -11,9 +11,9 @@ The [library of sunsyths](Sunsynths) is a collection of instruments, effects, pr
 
 
 ## II. Tutorial
-The [tutorial](Tutorial) is comprehensive, and works from the basics up through advanced techniques for achieving different objectives in sunvox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
+The [tutorial](Tutorial) is comprehensive, and works from the basics up through advanced techniques for achieving different objectives in SunVox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
 
-### Subections:
+### Subsections:
 #### [0: Introduction](Tutorial/0-Introduction)
 1. [Making Sound with a Module](Tutorial/0-Getting-Started/1-Making-Sound-with-a-Module)
 2. [Editing Module Parameters](Tutorial/0-Getting-Started/2-Editing-Module-Parameters)
@@ -22,25 +22,28 @@ The [tutorial](Tutorial) is comprehensive, and works from the basics up through 
 5. [Understanding file Formats](Tutorial/0-Getting-Started/5-Understanding-File-Formats)
 1. [Understanding Hexadecimal](Tutorial/0-Getting-Started/1-Understanding-Hexadecimal)
 
-#### [1: The Interface](Tutorial/1-The-Interface)
-##### [The Module Section](Tutorial/1-The-Interface/1-The-Module_Section)
+##### [1: The Module Section](Tutorial/1-The-Interface/1-The-Module_Section)
 1. [Commands](Tutorial/1-The-Interface/1-The-Module-Section/1-Commands)
 2. [The Matrix](Tutorial/1-The-Interface/1-The-Module-Section/2-The-Matrix)
 3. [Navigation](Tutorial/1-The-Interface/1-The-Module-Section/3-Navigation)
 
-##### [The Controller Section](Tutorial/1-The_Interface/1-The-Controller-Section)
+##### [2: The Controller Section](Tutorial/1-The_Interface/1-The-Controller-Section)
 1. [Editing Controllers](Tutorial/1-The-Interface/1-The-Controller-Section/1-Editing-Controllers)
 
-##### [The Timeline Section](Tutorial/1-The_Interface/1-The-Timeline-Section)
+##### [3: The Timeline Section](Tutorial/1-The_Interface/1-The-Timeline-Section)
 1. [Creating and Arranging Patterns](Tutorial/1-The-Interface/1-The-Controller-Section/1-Creating-and-Arranging-Patterns)
 
-##### [The Pattern Editor Section](Tutorial/1-The_Interface/4-The-Pattern-Editor-Section)
+##### [4: The Pattern Editor Section](Tutorial/1-The_Interface/4-The-Pattern-Editor-Section)
 1. [Editing Patterns](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
 2. [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/2-Events)
 3. [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
 4. [The Interpolator](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
 
-#### [2: The Modules](Tutorial/2-The-Modules)
+#### [5: Sound Generator Modules](Tutorial/2-The-Modules)
+
+#### [6: Effect Modules](Tutorial/2-The-Modules)
+
+#### [7: Other Modules](Tutorial/2-The-Modules)
 
 #### [3: Techniques and Strategy](Tutorial/3-techniques-and-strategy)
 
