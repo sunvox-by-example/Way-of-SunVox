@@ -18,10 +18,10 @@ This is a series that walks the user through how to make music in Sunvox, with e
 ## [The Timeline Section](1-The_Interface/1-The-Timeline-Section)
 
 ## [The Pattern Editor Section](1-The_Interface/4-The-Pattern-Editor-Section)
-1. [About Hexadecimal](1-The_Interface/4-The-Pattern-Editor-Section/1-About-Hexadecimal)
-2. [Creating and Editing Patterns](1-The_Interface/4-The-Pattern-Editor-Section/2-Creating-and-Editing-Patterns)
-3. [Events](1-The_Interface/4-The-Pattern-Editor-Section/3-Events)
-4. [Events](1-The_Interface/4-The-Pattern-Editor-Section/4-Pattern-Effects)
-5. [The Interpolator](1-The_Interface/4-The-Pattern-Editor-Section/5-The-Interpolator)
+1. [About Hexadecimal](1-The-Interface/4-The-Pattern-Editor-Section/1-About-Hexadecimal)
+2. [Creating and Editing Patterns](1-The-Interface/4-The-Pattern-Editor-Section/2-Creating-and-Editing-Patterns)
+3. [Events](1-The-Interface/4-The-Pattern-Editor-Section/3-Events)
+4. [Events](1-The-Interface/4-The-Pattern-Editor-Section/4-Pattern-Effects)
+5. [The Interpolator](1-The-Interface/4-The-Pattern-Editor-Section/5-The-Interpolator)
 
 ---
