@@ -22,30 +22,30 @@ The [tutorial](Tutorial) is comprehensive, and works from the basics up through 
 5. [Understanding file Formats](Tutorial/0-Getting-Started/5-Understanding-File-Formats)
 1. [Understanding Hexadecimal](Tutorial/0-Getting-Started/1-Understanding-Hexadecimal)
 
-##### [1: The Module Section](Tutorial/1-The-Interface/1-The-Module_Section)
+#### [1: UI - The Module Section](Tutorial/1-The-Interface/1-The-Module_Section)
 1. [Commands](Tutorial/1-The-Interface/1-The-Module-Section/1-Commands)
 2. [The Matrix](Tutorial/1-The-Interface/1-The-Module-Section/2-The-Matrix)
 3. [Navigation](Tutorial/1-The-Interface/1-The-Module-Section/3-Navigation)
 
-##### [2: The Controller Section](Tutorial/1-The_Interface/1-The-Controller-Section)
+#### [2: UI - The Controller Section](Tutorial/1-The_Interface/1-The-Controller-Section)
 1. [Editing Controllers](Tutorial/1-The-Interface/1-The-Controller-Section/1-Editing-Controllers)
 
-##### [3: The Timeline Section](Tutorial/1-The_Interface/1-The-Timeline-Section)
+#### [3: UI - The Timeline Section](Tutorial/1-The_Interface/1-The-Timeline-Section)
 1. [Creating and Arranging Patterns](Tutorial/1-The-Interface/1-The-Controller-Section/1-Creating-and-Arranging-Patterns)
 
-##### [4: The Pattern Editor Section](Tutorial/1-The_Interface/4-The-Pattern-Editor-Section)
+#### [4: UI - The Pattern Editor Section](Tutorial/1-The_Interface/4-The-Pattern-Editor-Section)
 1. [Editing Patterns](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
 2. [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/2-Events)
 3. [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
 4. [The Interpolator](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
 
-#### [5: Sound Generator Modules](Tutorial/2-The-Modules)
+#### [5: Modules - Sound Generators](Tutorial/2-The-Modules)
 
-#### [6: Effect Modules](Tutorial/2-The-Modules)
+#### [6: Modules - Effects](Tutorial/2-The-Modules)
 
-#### [7: Other Modules](Tutorial/2-The-Modules)
+#### [7: Modules - Other](Tutorial/2-The-Modules)
 
-#### [3: Techniques and Strategy](Tutorial/3-techniques-and-strategy)
+#### [8: Techniques and Strategy](Tutorial/3-techniques-and-strategy)
 
 ## About
 
