@@ -1,28 +1,43 @@
 ## About Hexadecimal
 
-SunVox, like other tracker software, uses hexadecimal instead of decimal to represent numerical values. These values may correspond to controller (parameter) values in the pattern editor, in this case entering the value `0c` in the `Controller` column, and `06` in the `Effect` column:
+SunVox, like other tracker software, uses hexadecimal instead of decimal to represent numerical values. These values may correspond to controller (parameter) values in the pattern editor, in this case entering the value `0C` in the `Controller` column, and `06` in the `Effect` column:
 
 ![](tut-1-4-1a.png)
+
+---
 
 or module ID's, viewable above the module in the module window (the right section) as well as before the name of the selected module as shown in the controller window (the left section):
 
 ![](tut-1-4-1b.png)
 
-or the length of a pattern, or many places in the application where numbers are used. Some exceptions are in patterns, where line numbers (representing 16th notes) are in decimal notation, and controller values in the controller window,
+---
 
-0	| 1	| 2	| 3	| 4	| 5	| 6	| 7	| 8	| 9	| a	| b	| c	| d	| e	| f
+or the length of a pattern,
+
+
+---
+
+or many places in the application where numbers are used. Some exceptions are in patterns, where line numbers (representing 16th notes) are in decimal notation,
+
+---
+
+and controller values in the controller window, where the first value listed is decimal, with hex in parentheses:
+
+![](tut-1-4-1b.png)
+
+0	| 1	| 2	| 3	| 4	| 5	| 6	| 7	| 8	| 9	| A	| B	| C	| D	| E	| F
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
 
-10 | 11	| 12 | 13 | 14 | 15 | 16 | 17	| 18 | 19	| 1a | 1b	| 1c | 1d	| 1e | 1f
+10 | 11	| 12 | 13 | 14 | 15 | 16 | 17	| 18 | 19	| 1A | 1B	| 1C | 1D	| 1E | 1F
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31
 
-20 | 21	| 22 | 23	| 24 | 25 | 26 | 27	| 28 | 29	| 2a | 2b	| 2c | 2d	| 2e | 2f
+20 | 21	| 22 | 23	| 24 | 25 | 26 | 27	| 28 | 29	| 2A | 2B	| 2C | 2D	| 2E | 2F
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47
 
-30 | 31	| 32 | 33	| 34 | 35 | 36 | 37	| 38 | 39	| 3a | 3b	| 3c | 3d	| 3e | 3f
+30 | 31	| 32 | 33	| 34 | 35 | 36 | 37	| 38 | 39	| 3A | 3B	| 3C | 3D	| 3E | 3F
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63
 
