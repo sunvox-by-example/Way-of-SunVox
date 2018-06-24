@@ -2,7 +2,7 @@
 
 ---
 
-  ![](media_/tutorial_1-video_1.gif "Tutorial 1 Gif 1")
+  ![](mediaa/tutorial_1-video_1.gif "Tutorial 1 Gif 1")
 
 
   1. Move the mouse up to the menu icon in the center right window, which is the module window.
