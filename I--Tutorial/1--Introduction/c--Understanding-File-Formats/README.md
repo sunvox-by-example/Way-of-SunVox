@@ -1,10 +1,6 @@
 # Understanding File Formats
 
-_Microchip logic, have we no more thoughts. "Is this wrong" I enter, Answers sought_
-
-_Punch, punch, punch, transfer this data into code. Wide eyes watch my Number 156 is shown_
-
-_- Queensryche_
+_Microchip logic, have we no more thoughts. "Is this wrong" I enter, Answers sought. Punch, punch, punch, transfer this data into code. Wide eyes watch my Number 156 is shown. - Queensryche_
 
 There are two primary file formats used by SunVox.
 
