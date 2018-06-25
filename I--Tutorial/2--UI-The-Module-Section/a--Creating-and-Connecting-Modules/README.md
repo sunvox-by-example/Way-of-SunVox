@@ -1,6 +1,6 @@
-## Tutorial 1: Make Sound With a Module
+## Creating and Connecting Modules
 
-`We're on a mission from God - The Blues Brothers`
+_We're on a mission from God - The Blues Brothers_
 
 ---
 
