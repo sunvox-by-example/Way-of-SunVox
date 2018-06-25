@@ -10,20 +10,21 @@ The library of [sunsyths](Sunsynths) is a collection of instruments, effects, pr
 
 
 ## II. Tutorial
-The [tutorial](Tutorial) is comprehensive, and works from the basics up through advanced techniques for achieving different objectives in SunVox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
+The [tutorial](Tutorial) works from the basics up through advanced techniques for achieving different objectives in SunVox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
 
-### [0: Introduction](Tutorial/0-Introduction)
-1. [Making Sound with a Module](Tutorial/0-Getting-Started/1-Making-Sound-with-a-Module)
-2. [Editing Module Parameters](Tutorial/0-Getting-Started/2-Editing-Module-Parameters)
-3. [Adding a Pattern to the Timeline](Tutorial/0-Getting-Started/3-Adding-a-Pattern-to-the-timeline)
-4. [Creating Note Events in a Pattern](Tutorial/0-Getting-Started/4-Creating-Note-Events-in-a-Pattern)
-5. [Understanding file Formats](Tutorial/0-Getting-Started/5-Understanding-File-Formats)
-1. [Understanding Hexadecimal](Tutorial/0-Getting-Started/1-Understanding-Hexadecimal)
+### [0: Introduction](Tutorial/1--Introduction)
+1. [Installing SunVox](Tutorial/1--Introduction/a--Installing-SunVox)
+2. [Making Sound with a Module](Tutorial/1--Introduction/b--Making-Sound-with-a-Module)
+3. [Editing Module Parameters](Tutorial/1--Introduction/c--Editing-Module-Parameters)
+4. [Adding a Pattern to the Timeline](Tutorial/1--Introduction/d--Adding-a-Pattern-to-the-timeline)
+5. [Creating Note Events in a Pattern](Tutorial/1--Introduction/e--Creating-Note-Events-in-a-Pattern)
+6. [Understanding file Formats](Tutorial/1--Introduction/f--Understanding-File-Formats)
+7. [Understanding Hexadecimal](Tutorial/1--Introduction/g--Understanding-Hexadecimal)
 
-### [1: UI - The Module Section](Tutorial/1-The-Interface/1-The-Module_Section)
-1. [Commands](Tutorial/1-The-Interface/1-The-Module-Section/1-Commands)
-2. [The Matrix](Tutorial/1-The-Interface/1-The-Module-Section/2-The-Matrix)
-3. [Navigation](Tutorial/1-The-Interface/1-The-Module-Section/3-Navigation)
+### [1: UI - The Module Section](Tutorial/2-The-Module_Section)
+1. [Commands](Tutorial/1-The-Interface/2-The-Module-Section/1-Commands)
+2. [The Matrix](Tutorial/1-The-Interface/2-The-Module-Section/2-The-Matrix)
+3. [Navigation](Tutorial/1-The-Interface/2-The-Module-Section/3-Navigation)
 
 ### [2: UI - The Controller Section](Tutorial/1-The_Interface/1-The-Controller-Section)
 1. [Editing Controllers](Tutorial/1-The-Interface/1-The-Controller-Section/1-Editing-Controllers)
@@ -43,13 +44,13 @@ The [tutorial](Tutorial) is comprehensive, and works from the basics up through 
 
 ### [7: Modules - Other](Tutorial/2-The-Modules)
 
-### [8: Techniques and Strategy](Tutorial/3-techniques-and-strategy)
+### [8: Techniques / Approaches / Strategies](Tutorial/3-Techniques-Approaches-Strategies)
 
 ## About
 
-Way of the SunVox is a reference to the "Way of the Sword", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, and after a certain number of years even began fighting with wooden kendo swords instead of metal, considering himself invincible. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists and poets in Japans history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative activities. I think Musashi's concept strategy can be applied well to SunVox - It is unconventional, spartan, simple, fast, efficient, and extremely powerful. The user needs to surrender to and accept it to reach the higher levels of mastery, but once there, you can do things that are just not possible in other music making environments.
+"Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, and after a certain number of years even began fighting with wooden kendo swords instead of metal, considering himself invincible. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists and poets in Japans history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative activities. I think Musashi's concept strategy can be applied well to SunVox - It is unconventional, spartan, simple, fast, efficient, and extremely powerful. The user needs to surrender to and accept it to reach the higher levels of mastery, but once there, you can do things that are just not possible in other music making environments.
 
-This resource exists in a Github "Repo". Generallly Github is used to host code, but it works well for any textual resource. You can navigate through the repo just as you would a site, with links that are in the text associated with each section, but also by navigating within the file structure that is visible at the top of whatever section you're in. Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
+This resource livesf in a Github "Repo". Generallly Github is used to host code, but it works well for any textual resource. You can navigate through the repo just as you would a site, with links that are in the text associated with each section, but also by navigating within the file structure that is visible at the top of whatever section you're in. Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
 
 
 ## External Links
