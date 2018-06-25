@@ -1,5 +1,12 @@
 ## Tutorial 2: Editing Module Parameters
 
+`Uniform printout reads end of line`
+`Protect code intact leaves little time`
+`Erratic surveys, free thinking not allowed`
+`My hands shake, my push buttons silence
+The outside crowd`
+`- Queensryche`
+
 ---
 
 ![](tutorial_1b.gif "Tutorial 2 Gif 1")

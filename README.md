@@ -12,10 +12,12 @@ The name "Way of the SunVox" is a combination of internet-speak and a reference 
 
 This resource lives in a Github "Repo". Generallly Github is used to host code, but it works well for any textual resource. You can navigate through the repo in two ways:
 
-1. Via links that are in the text associated with each section (the `README.md` file)
-2.  within the file structure that is visible for whatever section you're in. Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
+1. Via links (see the Sitemap below on this page) that are in the text associated with each section (the `README.md` file)
+2. Deeper/forwards into the site via the file structure box provided by Github (viewable above), and outward/backwards via the breadcrumb/path (listed right above the file structure box.)
 
-Additionally, if you want to work locally from your laptop while not being connected to the internet, you can do so by downloading this entire repo and opening the files locally (navigate to the the base level of this repo, and select the green `Clone or Download` link)
+Additionally, if you want to work locally from your laptop while not being connected to the internet, you can do so by downloading this entire repo and opening the files locally (select the green `Clone or Download` link above).
+
+Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
 
 ---
 # Sitemap
