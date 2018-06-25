@@ -1,12 +1,13 @@
 This is a series that walks the user through how to make music in Sunvox, with each tutorial addressing a specific part of the process. Example sessions and screengrabs are included in each tutorial.
 
-# [0: Introduction](1--Introduction)
-1. [Making Sound with a Module](0-Getting-Started/1-Making-Sound-with-a-Module)
-2. [Editing Module Parameters](0-Getting-Started/2-Editing-Module-Parameters)
-3. [Adding a Pattern to the Timeline](0-Getting-Started/3-Adding-a-Pattern-to-the-timeline)
-4. [Creating Note Events in a Pattern](0-Getting-Started/4-Creating-Note-Events-in-a-Pattern)
-5. [Understanding file Formats](0-Getting-Started/5-Understanding-File-Formats)
-1. [Understanding Hexadecimal](0-Getting-Started/1-Understanding-Hexadecimal)
+# [1: Introduction](1--Introduction)
+* [Making Sound with a Module](1--Introduction/a--Installing-SunVox)
+* [Making Sound with a Module](1--Introduction/b--Making-Sound-with-a-Module)
+* [Editing Module Parameters](1--Introduction/c--Editing-Module-Parameters)
+* [Adding a Pattern to the Timeline](1--Introduction/d-Adding-a-Pattern-to-the-timeline)
+* [Creating Note Events in a Pattern](1--Introduction/e-Creating-Note-Events-in-a-Pattern)
+* [Understanding file Formats](1--Introduction/f-Understanding-File-Formats)
+* [Understanding Hexadecimal](1--Introduction/g-Understanding-Hexadecimal)
 ---
 # [1: The Interface](1-The-Interface)
 ## [The Module Section](1-The-Interface/2-The-Module_Section)

@@ -13,13 +13,13 @@ The library of [sunsyths](Sunsynths) is a collection of instruments, effects, pr
 The [tutorial](Tutorial) works from the basics up through advanced techniques for achieving different objectives in SunVox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
 
 ### [1: Introduction](Tutorial/1--Introduction)
-* a. [Installing SunVox](Tutorial/1--Introduction/a--Installing-SunVox)
-* b. [Making Sound with a Module](Tutorial/1--Introduction/b--Making-Sound-with-a-Module)
-* c. [Editing Module Parameters](Tutorial/1--Introduction/c--Editing-Module-Parameters)
-* d. [Adding a Pattern to the Timeline](Tutorial/1--Introduction/d--Adding-a-Pattern-to-the-timeline)
-* e. [Creating Note Events in a Pattern](Tutorial/1--Introduction/e--Creating-Note-Events-in-a-Pattern)
-f. [Understanding file Formats](Tutorial/1--Introduction/f--Understanding-File-Formats)
-g. [Understanding Hexadecimal](Tutorial/1--Introduction/g--Understanding-Hexadecimal)
+* [Installing SunVox](Tutorial/1--Introduction/a--Installing-SunVox)
+* [Making Sound with a Module](Tutorial/1--Introduction/b--Making-Sound-with-a-Module)
+* [Editing Module Parameters](Tutorial/1--Introduction/c--Editing-Module-Parameters)
+* [Adding a Pattern to the Timeline](Tutorial/1--Introduction/d--Adding-a-Pattern-to-the-timeline)
+* [Creating Note Events in a Pattern](Tutorial/1--Introduction/e--Creating-Note-Events-in-a-Pattern)
+* [Understanding file Formats](Tutorial/1--Introduction/f--Understanding-File-Formats)
+* [Understanding Hexadecimal](Tutorial/1--Introduction/g--Understanding-Hexadecimal)
 
 ### [1: UI - The Module Section](Tutorial/2-The-Module_Section)
 1. [Commands](Tutorial/1-The-Interface/2-The-Module-Section/1-Commands)
