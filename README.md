@@ -71,7 +71,6 @@ Contributions to this repo are welcome, and Github  allows for easy contribution
 * [Pattern Effects](I--Tutorial/5--The-Pattern-Editor-Section/3-Pattern-Effects)
 * [The Interpolator](I--Tutorial/5--The-Pattern-Editor-Section/4-The-Interpolator)
 
----
 
 ## [II. Reference](II--Reference)
 #### [Sound Generation Modules](II--Reference/6--Modules-Sound-Generators)
@@ -79,10 +78,7 @@ Contributions to this repo are welcome, and Github  allows for easy contribution
 #### [Misc Modules](II--Reference/8--Modules-Misc)
 #### [Techniques / Approaches / Strategies](II--Reference/9--Techniques-Approaches-Strategies)
 
----
 
 ## [III. Library](III--Library)
 #### [Effects](III--Library/Effects)
 #### [Synths / Samplers](II--Library/Synths-Samplers)
-
----
