@@ -19,11 +19,13 @@ _- Miyamoto Musashi_
 
 This is a resource for the music creation application SunVox.
 
-It is divided into 2 main sections - a [tutorial](Tutorial), and library of [sunsyths](Sunsynths).
+It is divided into 3 main sections - a [tutorial](I--Tutorial), a [reference](II--Reference), and a [library](III--Library) of sunsyths.
 
 I. The [tutorial](Tutorial) guides the user through the music creation process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as example SunVox projects are provided for reference. When a technique or documentation is drawn from a forum post or another creator, that creator is credited.
 
-II. The library of [sunsyths](Sunsynths) is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
+II. The [reference](II--Reference) includes descriptions, documentation, and examples of each type of native module, each type of pattern effect, and a collection of techniques, approaches, and strategies with documentation and example _sunvox_ projects.
+
+III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
 
 Some content is reprinted from the official [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en#effects) - when this is the case the text will appear in `code blocks`.
 
@@ -50,36 +52,27 @@ Contributions to this repo are welcome, and Github  allows for easy contribution
 * [Installing SunVox](I--Tutorial/1--Introduction/b--Installing-SunVox)
 * [Understanding file Formats](I--Tutorial/1--Introduction/c--Understanding-File-Formats)
 * [Understanding Hexadecimal](I--Tutorial/1--Introduction/d--Understanding-Hexadecimal)
+#### [The Module Section](I--Tutorial/2--The-Module-Section)
+* [Creating and Connecting Modules](I--Tutorial/2--The-Module-Section/a--Creating-and-Connecting-Modules)
+* [Commands](I--Tutorial/2--The-Module-Section/b--Commands)
+* [The Grid Approach](I--Tutorial/2--The-Module-Section/c--The-Grid-Approach)
+* [Navigation](I--Tutorial/2--The-Module-Section/d--Navigation)
+#### [The Controller Section](I--Tutorial/3--The-Controller-Section)
+* [Editing Controllers](I--Tutorial/3--The-Controller-Section/a--Editing-Controllers)
+#### [The Timeline Section](I--Tutorial/4--The-Timeline-Section)
+* [Creating and Arranging Patterns](I--Tutorial/4--The-Timeline-Section/a--Creating-and-Arranging-Patterns)
+#### [The Pattern Editor Section](I--Tutorial/5--The-Pattern-Editor-Section)
+* [Editing Patterns](I--Tutorial/5--The-Pattern-Editor-Section/1-Editing-Patterns)
+* [Events](I--Tutorial/5--The-Pattern-Editor-Section/2-Events)
+* [Pattern Effects](I--Tutorial/5--The-Pattern-Editor-Section/3-Pattern-Effects)
+* [The Interpolator](I--Tutorial/5--The-Pattern-Editor-Section/4-The-Interpolator)
 
-#### [UI - The Module Section](I--Tutorial/2--UI-The-Module-Section)
-* [Creating and Connecting Modules](I--Tutorial/2--UI-The-Module-Section/a--Creating-and-Connecting-Modules)
-* [Commands](I--Tutorial/2--UI-The-Module-Section/b--Commands)
-* [The Grid Approach](I--Tutorial/2--UI-The-Module-Section/c--The-Grid-Approach)
-* [Navigation](I--Tutorial/2--UI-The-Module-Section/d--Navigation)
+### [II. Reference](II--Reference)
+#### [Sound Generation Modules](II--Reference/6--Modules-Sound-Generators)
+#### [Effect Modules](II--Reference/7--Modules-Effects)
+#### [Misc Modules](II--Reference/8--Modules-Misc)
+#### [Techniques / Approaches / Strategies](II--Reference/9--Techniques-Approaches-Strategies)
 
-#### [UI - The Controller Section](I--Tutorial/3-UI--The-Controller-Section)
-* [Editing Controllers](I--Tutorial/3-UI--The-Controller-Section/a--Editing-Controllers)
-
-#### [UI - The Timeline Section](I--Tutorial/4-UI--The-Timeline-Section)
-* [Creating and Arranging Patterns](I--Tutorial/4-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
-
-#### [UI - The Pattern Editor Section](I--Tutorial/5-UI--The-Pattern-Editor-Section)
-
-* [Editing Patterns](I--Tutorial/5-UI--The-Pattern-Editor-Section/1-Editing-Patterns)
-* [Events](I--Tutorial/5-UI--The-Pattern-Editor-Section/2-Events)
-* [Pattern Effects](I--Tutorial/5-UI--The-Pattern-Editor-Section/3-Pattern-Effects)
-* [The Interpolator](I--Tutorial/5-UI--The-Pattern-Editor-Section/4-The-Interpolator)
-
-#### [Modules - Sound Generators](I--Tutorial/6--Modules-Sound-Generators)
-
-#### [Modules - Effects](I--Tutorial/7--Modules-Effects)
-
-#### [Modules - Misc](I--Tutorial/8--Modules-Misc)
-
-#### [Techniques / Approaches / Strategies](I--Tutorial/9--Techniques-Approaches-Strategies)
-
-.
-
-### [II. Sunsynths](II--Sunsynths)
-#### [Effects](II--Sunsynths/Effects)
-#### [Synths / Samplers](II--Sunsynths/Synths-Samplers)
+### [III. Library](III--Library)
+#### [Effects](III--Library/Effects)
+#### [Synths / Samplers](II--Library/Synths-Samplers)
