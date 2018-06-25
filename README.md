@@ -30,10 +30,6 @@ the Way of the warrior (Bushido).`
 `- Miyamoto Musashi`
 
 
-
-
-
-
 This is a resource for the music creation application SunVox. It is divided into 2 main sections - a [tutorial](Tutorial), and library of [sunsyths](Sunsynths).
 
 I. The [tutorial](Tutorial) is meant to be exhaustive and cover everything the offical [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en) covers and more. It guides the user through the music making process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as SunVox projects are provided for reference. In cases where a technique or documentation is drawn from a forum post or another creator, that creator is credited.
@@ -52,44 +48,42 @@ Additionally, if you want to work locally from your laptop while not being conne
 Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
 
 ---
+
 # Sitemap
-## [I. Sunsynths](Sunsynths)
 
+## [I. Tutorial](I--Tutorial)
+#### [Introduction](I--Tutorial/1--Introduction)
+* [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox)
+* [Installing SunVox](I--Tutorial/1--Introduction/b--Installing-SunVox)
+* [Understanding file Formats](I--Tutorial/1--Introduction/c--Understanding-File-Formats)
+* [Understanding Hexadecimal](I--Tutorial/1--Introduction/d--Understanding-Hexadecimal)
 
-### [Effects](Sunsynths/Effects)
-### [Synths / Samplers](Synths_Samplers)
+#### [UI - The Module Section](I--Tutorial/2--UI-The-Module-Section)
+* [Creating and Connecting Modules](I--Tutorial/2--UI-The-Module-Section/a--Creating-and-Connecting-Modules)
+* [Commands](I--Tutorial/2--UI-The-Module-Section/b--Commands)
+* [The Matrix](I--Tutorial/2--UI-The-Module-Section/c--The-Matrix)
+* [Navigation](I--Tutorial/2--UI-The-Module-Section/d--Navigation)
 
----
+#### [UI - The Controller Section](I--Tutorial/3-UI--The-Controller-Section)
+* [Editing Controllers](I--Tutorial/3-UI--The-Controller-Section/a--Editing-Controllers)
 
-## [II. Tutorial](Tutorial)
-### [Introduction](Tutorial/1--Introduction)
-* [What is SunVox](Tutorial/1--Introduction/a--What-is-SunVox)
-* [Installing SunVox](Tutorial/1--Introduction/b--Installing-SunVox)
-* [Understanding file Formats](Tutorial/1--Introduction/c--Understanding-File-Formats)
-* [Understanding Hexadecimal](Tutorial/1--Introduction/d--Understanding-Hexadecimal)
+### [UI - The Timeline Section](I--Tutorial/4-UI--The-Timeline-Section)
+* [Creating and Arranging Patterns](I--Tutorial/4-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
 
-### [UI - The Module Section](Tutorial/2--UI-The-Module-Section)
-* [Creating and Connecting Modules](Tutorial/2--UI-The-Module-Section/a--Creating-and-Connecting-Modules)
-* [Commands](Tutorial/2--UI-The-Module-Section/b--Commands)
-* [The Matrix](Tutorial/2--UI-The-Module-Section/c--The-Matrix)
-* [Navigation](Tutorial/2--UI-The-Module-Section/d--Navigation)
+#### [UI - The Pattern Editor Section](I--Tutorial/5-UI--The-Pattern-Editor-Section)
+* [Editing Patterns](I--Tutorial/5-UI--The-Pattern-Editor-Section/1-Editing-Patterns)
+* [Events](I--Tutorial/5-UI--The-Pattern-Editor-Section/2-Events)
+* [Pattern Effects](I--Tutorial/5-UI--The-Pattern-Editor-Section/3-Pattern-Effects)
+* [The Interpolator](I--Tutorial/5-UI--The-Pattern-Editor-Section/4-The-Interpolator)
 
-### [UI - The Controller Section](Tutorial/3-UI--The-Controller-Section)
-* [Editing Controllers](Tutorial/3-UI--The-Controller-Section/a--Editing-Controllers)
+#### [Modules - Sound Generators](I--Tutorial/6--Modules-Sound-Generators)
 
-### [UI - The Timeline Section](Tutorial/4-UI--The-Timeline-Section)
-* [Creating and Arranging Patterns](Tutorial/4-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
+#### [Modules - Effects](I--Tutorial/7--Modules-Effects)
 
-### [UI - The Pattern Editor Section](Tutorial/5-UI--The-Pattern-Editor-Section)
-* [Editing Patterns](Tutorial/5-UI--The-Pattern-Editor-Section/1-Editing-Patterns)
-* [Events](Tutorial/5-UI--The-Pattern-Editor-Section/2-Events)
-* [Pattern Effects](Tutorial/5-UI--The-Pattern-Editor-Section/3-Pattern-Effects)
-* [The Interpolator](Tutorial/5-UI--The-Pattern-Editor-Section/4-The-Interpolator)
+#### [Modules - Misc](I--Tutorial/8--Modules-Misc)
 
-### [Modules - Sound Generators](Tutorial/6--Modules-Sound-Generators)
+#### [Techniques / Approaches / Strategies](I--Tutorial/9--Techniques-Approaches-Strategies)
 
-### [Modules - Effects](Tutorial/7--Modules-Effects)
-
-### [Modules - Misc](Tutorial/8--Modules-Misc)
-
-### [Techniques / Approaches / Strategies](Tutorial/9--Techniques-Approaches-Strategies)
+## [II. Sunsynths](II--Sunsynths)
+#### [Effects](II--Sunsynths/Effects)
+#### [Synths / Samplers](II--Sunsynths/Synths-Samplers)
