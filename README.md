@@ -21,30 +21,31 @@ The [tutorial](Tutorial) works from the basics up through advanced techniques fo
 * [Understanding file Formats](Tutorial/1--Introduction/f--Understanding-File-Formats)
 * [Understanding Hexadecimal](Tutorial/1--Introduction/g--Understanding-Hexadecimal)
 
-### [1: UI - The Module Section](Tutorial/2-The-Module_Section)
-1. [Commands](Tutorial/1-The-Interface/2-The-Module-Section/1-Commands)
-2. [The Matrix](Tutorial/1-The-Interface/2-The-Module-Section/2-The-Matrix)
-3. [Navigation](Tutorial/1-The-Interface/2-The-Module-Section/3-Navigation)
+### [2: UI - The Module Section](Tutorial/2--UI-The-Module_Section)
+* [Commands](Tutorial/2--UI-The-Module-Section/a--Creating-and-Editing-Modules)
+* [Commands](Tutorial/2--UI-The-Module-Section/b--Commands)
+* [The Matrix](Tutorial/2--UI-The-Module-Section/c--The-Matrix)
+* [Navigation](Tutorial/2--UI-The-Module-Section/d--Navigation)
 
-### [2: UI - The Controller Section](Tutorial/1-The_Interface/1-The-Controller-Section)
-1. [Editing Controllers](Tutorial/1-The-Interface/1-The-Controller-Section/1-Editing-Controllers)
+### [3: UI - The Controller Section](Tutorial/1-The_Interface/3-UI--The-Controller-Section)
+* [Editing Controllers](Tutorial/1-The-Controller-Section/a--Editing-Controllers)
 
-### [3: UI - The Timeline Section](Tutorial/1-The_Interface/1-The-Timeline-Section)
-1. [Creating and Arranging Patterns](Tutorial/1-The-Interface/1-The-Controller-Section/1-Creating-and-Arranging-Patterns)
+### [4: UI - The Timeline Section](Tutorial/1-The_Interface/4-UI--The-Timeline-Section)
+* [Creating and Arranging Patterns](Tutorial/1-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
 
-### [4: UI - The Pattern Editor Section](Tutorial/1-The_Interface/4-The-Pattern-Editor-Section)
-1. [Editing Patterns](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
-2. [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/2-Events)
-3. [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
-4. [The Interpolator](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
+### [5: UI - The Pattern Editor Section](Tutorial/5-UI--The-Pattern-Editor-Section)
+* [Editing Patterns](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
+* [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/2-Events)
+* [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
+* [The Interpolator](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
 
-### [5: Modules - Sound Generators](Tutorial/2-The-Modules)
+### [6: Modules - Sound Generators](Tutorial/6--Modules-Sound-Generators)
 
-### [6: Modules - Effects](Tutorial/2-The-Modules)
+### [7: Modules - Effects](Tutorial/7--Modules-Effects)
 
-### [7: Modules - Other](Tutorial/2-The-Modules)
+### [8: Modules - Misc](Tutorial/8--Modules-Misc)
 
-### [8: Techniques / Approaches / Strategies](Tutorial/3-Techniques-Approaches-Strategies)
+### [9: Techniques / Approaches / Strategies](Tutorial/9--Techniques-Approaches-Strategies)
 
 ## About
 

@@ -4,7 +4,7 @@ This is a series that walks the user through how to make music in Sunvox, with e
 * [Making Sound with a Module](1--Introduction/a--Installing-SunVox)
 * [Making Sound with a Module](1--Introduction/b--Making-Sound-with-a-Module)
 * [Editing Module Parameters](1--Introduction/c--Editing-Module-Parameters)
-* [Adding a Pattern to the Timeline](1--Introduction/d-Adding-a-Pattern-to-the-timeline)
+* [Adding a Pattern to the Timeline](1--Introduction/d-Adding-a-Pattern-to-the-Timeline)
 * [Creating Note Events in a Pattern](1--Introduction/e-Creating-Note-Events-in-a-Pattern)
 * [Understanding file Formats](1--Introduction/f-Understanding-File-Formats)
 * [Understanding Hexadecimal](1--Introduction/g-Understanding-Hexadecimal)
