@@ -2,12 +2,15 @@
 
 Way of the SunVox is a resource for the music creation application SunVox. It is divided into 2 main sections - a tutorial, and library of sunsyths.
 
+---
+
 ## I. Sunsynths
 The library of [sunsyths](Sunsynths) is a collection of instruments, effects, presets, modules, and metamodules - anything that can produce or process sound. These are all saved as sunsynth files, which are basically a patch, similar to how you might think of a modular synth patch. One of the coolest things about SunVox is how everything is build up from module primitives native to the app, so the line between "instrument", "plugin", "preset", "UI" etc as in most music creation environments, is non-existent. SunVox sits at a level of abstraction below a traditional DAW (ie. Ableton, Logic, etc) but above a musical coding environment (ie. MaxMSP, Reaktor, SuperCollider, Pure Data, etc.) This turns out to be ideal for being able to design any sound you want in really powerful but simple interface, but not get sucked into instrument design/coding concerns, which can easily move in to replace the music making process using lower level environments.
 
 ### [Effects](Sunsynths/Effects)
 ### [Synths / Samplers](Synths_Samplers)
 
+---
 
 ## II. Tutorial
 The [tutorial](Tutorial) works from the basics up through advanced techniques for achieving different objectives in SunVox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
@@ -27,10 +30,10 @@ The [tutorial](Tutorial) works from the basics up through advanced techniques fo
 * [The Matrix](Tutorial/2--UI-The-Module-Section/c--The-Matrix)
 * [Navigation](Tutorial/2--UI-The-Module-Section/d--Navigation)
 
-### [UI - The Controller Section](Tutorial/1-The_Interface/3-UI--The-Controller-Section)
+### [UI - The Controller Section](Tutorial/3-UI--The-Controller-Section)
 * [Editing Controllers](Tutorial/1-The-Controller-Section/a--Editing-Controllers)
 
-### [UI - The Timeline Section](Tutorial/1-The_Interface/4-UI--The-Timeline-Section)
+### [UI - The Timeline Section](Tutorial/4-UI--The-Timeline-Section)
 * [Creating and Arranging Patterns](Tutorial/1-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
 
 ### [UI - The Pattern Editor Section](Tutorial/5-UI--The-Pattern-Editor-Section)
@@ -46,6 +49,8 @@ The [tutorial](Tutorial) works from the basics up through advanced techniques fo
 ### [Modules - Misc](Tutorial/8--Modules-Misc)
 
 ### [Techniques / Approaches / Strategies](Tutorial/9--Techniques-Approaches-Strategies)
+
+---
 
 ## About
 
