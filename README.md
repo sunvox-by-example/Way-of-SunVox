@@ -21,7 +21,7 @@ The [tutorial](Tutorial) works from the basics up through advanced techniques fo
 * [Understanding file Formats](Tutorial/1--Introduction/f--Understanding-File-Formats)
 * [Understanding Hexadecimal](Tutorial/1--Introduction/g--Understanding-Hexadecimal)
 
-### [2: UI - The Module Section](Tutorial/2--UI-The-Module_Section)
+### [2: UI - The Module Section](Tutorial/2--UI-The-Module-Section)
 * [Commands](Tutorial/2--UI-The-Module-Section/a--Creating-and-Editing-Modules)
 * [Commands](Tutorial/2--UI-The-Module-Section/b--Commands)
 * [The Matrix](Tutorial/2--UI-The-Module-Section/c--The-Matrix)
