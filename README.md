@@ -5,8 +5,8 @@ Way of the SunVox is a resource for the music creation application SunVox. It is
 ## I. Sunsynths
 The library of [sunsyths](Sunsynths) is a collection of instruments, effects, presets, modules, and metamodules - anything that can produce or process sound. These are all saved as sunsynth files, which are basically a patch, similar to how you might think of a modular synth patch. One of the coolest things about SunVox is how everything is build up from module primitives native to the app, so the line between "instrument", "plugin", "preset", "UI" etc as in most music creation environments, is non-existent. SunVox sits at a level of abstraction below a traditional DAW (ie. Ableton, Logic, etc) but above a musical coding environment (ie. MaxMSP, Reaktor, SuperCollider, Pure Data, etc.) This turns out to be ideal for being able to design any sound you want in really powerful but simple interface, but not get sucked into instrument design/coding concerns, which can easily move in to replace the music making process using lower level environments.
 
-* [Effects](Sunsynths/Effects)
-* [Synths / Samplers](Synths_Samplers)
+### [Effects](Sunsynths/Effects)
+### [Synths / Samplers](Synths_Samplers)
 
 
 ## II. Tutorial
