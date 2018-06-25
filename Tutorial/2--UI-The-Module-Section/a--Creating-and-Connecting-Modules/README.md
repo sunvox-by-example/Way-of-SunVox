@@ -1,5 +1,7 @@
 ## Tutorial 1: Make Sound With a Module
 
+`We're on a mission from God - The Blues Brothers`
+
 ---
 
   ![](tutorial_1a.gif "Tutorial 1 Gif 1")

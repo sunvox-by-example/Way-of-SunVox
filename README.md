@@ -1,12 +1,44 @@
 # Way of the SunVox
+`There is no way to describe what a warrior should do other than he should adhere to
+the Way of the warrior (Bushido).`
 
-`This is the key to a new order. This code disc means freedom. - Tron (1982)`
+`I find that all men are negligent of this.`
+
+`There are a few men who can quickly reply to the question "What is the Way of the Warrior?"`
+
+`This is because they do not know in their hearts.`
+
+`From this we can say they do not follow the Way of the warrior.`
+
+`By the Way of the warrior is meant death.`
+`The Way of the warrior is death.`
+
+`This means choosing death whenever there is a choice between life and death.`
+
+`It means nothing more than this.`
+
+`If you keep your spirit correct from morning to night,`
+
+`accustomed to the idea of death and resolved on death,`
+
+`and consider yourself as a dead body,`
+
+`thus becoming one with the Way of the warrior,`
+
+`you can pass through life with no possibility of failure`
+
+`- Miyamoto Musashi`
+
+
+
+
+
 
 This is a resource for the music creation application SunVox. It is divided into 2 main sections - a [tutorial](Tutorial), and library of [sunsyths](Sunsynths).
 
-The [tutorial](Tutorial) is meant to be exhaustive and cover everything the offical [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en) covers and more. It guides the user through the music making process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as SunVox projects are provided for reference. In cases where a technique or documentation is drawn from a forum post or another creator, that creator is credited.
+I. The [tutorial](Tutorial) is meant to be exhaustive and cover everything the offical [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en) covers and more. It guides the user through the music making process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as SunVox projects are provided for reference. In cases where a technique or documentation is drawn from a forum post or another creator, that creator is credited.
 
-The library of [sunsyths](Sunsynths) is a collection of saved modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the `sunsynth` file format).
+II. The library of [sunsyths](Sunsynths) is a collection of saved modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the `sunsynth` file format).
 
 The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists and poets in Japans history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative activities.
 

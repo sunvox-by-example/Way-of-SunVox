@@ -1,6 +1,6 @@
 # Installing SunVox
 
-`We're on a mission from God - The Blues Brothers`
+`This is the key to a new order. This code disc means freedom. - Tron (1982)`
 
 SunVox runs on a lot of different devices. Probably more than any other music app. No one knows how Alex, the sole developer, achieves this and stays sane, but somehow he does. My guess is Russian energy drinks. For installation the best resource is the official [wiki](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en#installing).
 
