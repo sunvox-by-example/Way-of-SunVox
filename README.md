@@ -12,7 +12,7 @@ The library of [sunsyths](Sunsynths) is a collection of instruments, effects, pr
 ## II. Tutorial
 The [tutorial](Tutorial) works from the basics up through advanced techniques for achieving different objectives in SunVox. Animated gifs with text descriptions as well as SunVox projects are provided for reference throughout. In cases where an advanced technique is drawn from a forum post or another creator, that creator is credited.
 
-### [1: Introduction](Tutorial/1--Introduction)
+### [Introduction](Tutorial/1--Introduction)
 * [Installing SunVox](Tutorial/1--Introduction/a--Installing-SunVox)
 * [Making Sound with a Module](Tutorial/1--Introduction/b--Making-Sound-with-a-Module)
 * [Editing Module Parameters](Tutorial/1--Introduction/c--Editing-Module-Parameters)
@@ -21,31 +21,31 @@ The [tutorial](Tutorial) works from the basics up through advanced techniques fo
 * [Understanding file Formats](Tutorial/1--Introduction/f--Understanding-File-Formats)
 * [Understanding Hexadecimal](Tutorial/1--Introduction/g--Understanding-Hexadecimal)
 
-### [2: UI - The Module Section](Tutorial/2--UI-The-Module-Section)
-* [Commands](Tutorial/2--UI-The-Module-Section/a--Creating-and-Editing-Modules)
+### [UI - The Module Section](Tutorial/2--UI-The-Module-Section)
+* [Creating and Editing Modules](Tutorial/2--UI-The-Module-Section/a--Creating-and-Editing-Modules)
 * [Commands](Tutorial/2--UI-The-Module-Section/b--Commands)
 * [The Matrix](Tutorial/2--UI-The-Module-Section/c--The-Matrix)
 * [Navigation](Tutorial/2--UI-The-Module-Section/d--Navigation)
 
-### [3: UI - The Controller Section](Tutorial/1-The_Interface/3-UI--The-Controller-Section)
+### [UI - The Controller Section](Tutorial/1-The_Interface/3-UI--The-Controller-Section)
 * [Editing Controllers](Tutorial/1-The-Controller-Section/a--Editing-Controllers)
 
-### [4: UI - The Timeline Section](Tutorial/1-The_Interface/4-UI--The-Timeline-Section)
+### [UI - The Timeline Section](Tutorial/1-The_Interface/4-UI--The-Timeline-Section)
 * [Creating and Arranging Patterns](Tutorial/1-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
 
-### [5: UI - The Pattern Editor Section](Tutorial/5-UI--The-Pattern-Editor-Section)
+### [UI - The Pattern Editor Section](Tutorial/5-UI--The-Pattern-Editor-Section)
 * [Editing Patterns](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/1-Editing-Patterns)
 * [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/2-Events)
 * [Events](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/3-Pattern-Effects)
 * [The Interpolator](Tutorial/1-The-Interface/4-The-Pattern-Editor-Section/4-The-Interpolator)
 
-### [6: Modules - Sound Generators](Tutorial/6--Modules-Sound-Generators)
+### [Modules - Sound Generators](Tutorial/6--Modules-Sound-Generators)
 
-### [7: Modules - Effects](Tutorial/7--Modules-Effects)
+### [Modules - Effects](Tutorial/7--Modules-Effects)
 
-### [8: Modules - Misc](Tutorial/8--Modules-Misc)
+### [Modules - Misc](Tutorial/8--Modules-Misc)
 
-### [9: Techniques / Approaches / Strategies](Tutorial/9--Techniques-Approaches-Strategies)
+### [Techniques / Approaches / Strategies](Tutorial/9--Techniques-Approaches-Strategies)
 
 ## About
 
