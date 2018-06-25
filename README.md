@@ -8,13 +8,18 @@ The [tutorial](Tutorial) is meant to be exhaustive and cover everything the offi
 
 The library of [sunsyths](Sunsynths) is a collection of saved modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the `sunsynth` file format).
 
-The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of metal. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists and poets in Japans history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative activities.
+The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists and poets in Japans history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative activities.
 
-This resource lives in a Github "Repo". Generallly Github is used to host code, but it works well for any textual resource. You can navigate through the repo just as you would a site, with links that are in the text associated with each section, but also by navigating within the file structure that is visible at the top of whatever section you're in. Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
+This resource lives in a Github "Repo". Generallly Github is used to host code, but it works well for any textual resource. You can navigate through the repo in two ways:
+
+1. Via links that are in the text associated with each section (the `README.md` file)
+2.  within the file structure that is visible for whatever section you're in. Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
+
+Additionally, if you want to work locally from your laptop while not being connected to the internet, you can do so by downloading this entire repo and opening the files locally (navigate to the the base level of this repo, and select the green `Clone or Download` link)
 
 ---
 # Sitemap
-## [I. SUNSYNTHS](Sunsynths)
+## [I. Sunsynths](Sunsynths)
 
 
 ### [Effects](Sunsynths/Effects)
@@ -22,7 +27,7 @@ This resource lives in a Github "Repo". Generallly Github is used to host code, 
 
 ---
 
-## [II. TUTORIAL](Tutorial)
+## [II. Tutorial](Tutorial)
 ### [Introduction](Tutorial/1--Introduction)
 * [What is SunVox](Tutorial/1--Introduction/a--What-is-SunVox)
 * [Installing SunVox](Tutorial/1--Introduction/b--Installing-SunVox)
