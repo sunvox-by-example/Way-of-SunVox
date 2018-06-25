@@ -15,13 +15,19 @@ _If you keep your spirit correct from morning to night, accustomed to the idea o
 
 _- Miyamoto Musashi_
 
-This is a resource for the music creation application SunVox. It is divided into 2 main sections - a [tutorial](Tutorial), and library of [sunsyths](Sunsynths).
+## About
 
-I. The [tutorial](Tutorial) is meant to be exhaustive and cover everything the offical [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en) covers and more. It guides the user through the music making process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as SunVox projects are provided for reference. In cases where a technique or documentation is drawn from a forum post or another creator, that creator is credited.
+This is a resource for the music creation application SunVox.
 
-II. The library of [sunsyths](Sunsynths) is a collection of saved modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
+It is divided into 2 main sections - a [tutorial](Tutorial), and library of [sunsyths](Sunsynths).
 
-The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword" or the "Way of the Warrior", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists, poets, and musicians in Japans history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative expressions.
+I. The [tutorial](Tutorial) guides the user through the music creation process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as example SunVox projects are provided for reference. When a technique or documentation is drawn from a forum post or another creator, that creator is credited.
+
+II. The library of [sunsyths](Sunsynths) is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
+
+The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword" or the "Way of the Warrior", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists, poets, and musicians in Japan's history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative expressions.
+
+## Layout
 
 This resource lives in a Github "Repo". Generallly Github is used to host code, but it works well for any textual resource. You can navigate through the repo in two ways:
 
@@ -30,13 +36,13 @@ This resource lives in a Github "Repo". Generallly Github is used to host code, 
 
 Additionally, if you want to work locally from your laptop while not being connected to the internet, you can do so by downloading this entire repo and opening the files locally (select the green _Clone or Download_ link above).
 
-Github also allows for easy contributing if you are familiar with the interface, and contributions to this repo are welcome. If you'd like to contribute but don't want to get into learning github, just email me your contributions to mreveley (at) gmail.com.
+## Contributing
 
----
+Contributions to this repo are welcome, and Github  allows for easy contributions if you are familiar with the interface. If you'd like to contribute but don't want to take the time to learn github, just email me your contributions to mreveley (at) gmail.com.
 
-# Sitemap
+## Sitemap
 
-## [I. Tutorial](I--Tutorial)
+### [I. Tutorial](I--Tutorial)
 #### [Introduction](I--Tutorial/1--Introduction)
 * [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox)
 * [Installing SunVox](I--Tutorial/1--Introduction/b--Installing-SunVox)
@@ -52,7 +58,7 @@ Github also allows for easy contributing if you are familiar with the interface,
 #### [UI - The Controller Section](I--Tutorial/3-UI--The-Controller-Section)
 * [Editing Controllers](I--Tutorial/3-UI--The-Controller-Section/a--Editing-Controllers)
 
-### [UI - The Timeline Section](I--Tutorial/4-UI--The-Timeline-Section)
+#### [UI - The Timeline Section](I--Tutorial/4-UI--The-Timeline-Section)
 * [Creating and Arranging Patterns](I--Tutorial/4-The-Timeline-Section/a--Creating-and-Arranging-Patterns)
 
 #### [UI - The Pattern Editor Section](I--Tutorial/5-UI--The-Pattern-Editor-Section)
@@ -72,6 +78,6 @@ Github also allows for easy contributing if you are familiar with the interface,
 
 .
 
-## [II. Sunsynths](II--Sunsynths)
+### [II. Sunsynths](II--Sunsynths)
 #### [Effects](II--Sunsynths/Effects)
 #### [Synths / Samplers](II--Sunsynths/Synths-Samplers)
