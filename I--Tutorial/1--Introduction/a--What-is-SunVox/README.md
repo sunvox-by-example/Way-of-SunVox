@@ -39,9 +39,8 @@ Anyone can learn SunVox, right now I am teaching my 7 year old son and he loves 
 * People who want to master a certain current genre in a way that quickly gives them a shot at becoming popular (there's nothing at all wrong with wanting this, and if so, the best approach will be to study the many tutorials out there for more conventional DAWs in the genre you are looking to target. Just beware that this is the path thousands of others are taking too. See the difference between the Blue Ocean and the Red Ocean.)
 * People who don't want to deal with numbers and discreet values
 
+---
 
 _Next Tutorial: [Installing SunVox](../b--Installing-SunVox)_
-
----
 
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
