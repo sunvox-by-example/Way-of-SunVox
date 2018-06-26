@@ -67,8 +67,10 @@
 * [Sound2Ctl](II--Reference/8--Misc-Modules/Sound2Ctl)
 * [Velocity2Ctl](II--Reference/8--Misc-Modules/Velocity2Ctl)
 #### [Techniques / Approaches / Strategies](II--Reference/9--Techniques-Approaches-Strategies)
-
+* (todo)
 
 ## [III. Library](III--Library)
-#### [Effects](III--Library/Effects)
-#### [Synths / Samplers](II--Library/Synths-Samplers)
+#### [Sound Generators](III--Library/1--Sound-Generators)
+* (todo)
+#### [Effects](III--Library/2--Effects)
+* (todo)
