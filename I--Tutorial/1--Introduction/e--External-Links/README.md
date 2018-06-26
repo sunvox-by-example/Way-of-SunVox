@@ -1,12 +1,7 @@
+_Sunlight, falling on your steel. Death in life is yourideal_
+_Life is like a wheel, rolling on and on. - Iron Maiden_
+
 # External Links
-
-_Sunlight, falling on your steel_
-
-_Death in life is your ideal_
-
-_Life is like a wheel, rolling on and on._
-
-_- Iron Maiden_
 
 ### Offical Resources
 * [Manual / Wiki](http://www.warmplace.ru/wiki/sunvox:manual_en)

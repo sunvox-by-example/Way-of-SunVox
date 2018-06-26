@@ -6,7 +6,7 @@ NOTE: Understanding hexadecimal is not mission critical when starting to learn S
 
 SunVox, like other tracker software, uses hexadecimal instead of decimal to represent numerical values. These values may correspond to controller (parameter) values in the pattern editor (in this case entering the value `0C` in the `Controller` column, and `06` in the `Effect` column):
 
-![](tutorial_1g_1.png)
+![](tutorial_1g.png)
 
 ---
 

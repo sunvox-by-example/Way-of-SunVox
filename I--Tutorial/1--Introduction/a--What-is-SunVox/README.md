@@ -16,7 +16,6 @@ Anyone can learn SunVox, right now I am teaching my 7 year old son and he loves 
 * People who own no plugins
 * People who have been producing music long enough to where they only use about half the plugins they own cause they lost their authorizations for the others
 * People who have used most or all of the major DAWs over the years and reckon that, despite their differences, they're all about the same
-* People who would rather go to the dentist than NAMM
 * People who appreciate the place where limits and freedom overlap
 * People who appreciate subversive underground under-the-radar but in many ways superior technology
 * People who appreciate the advantages of a self-contained music making environment
@@ -27,15 +26,16 @@ Anyone can learn SunVox, right now I am teaching my 7 year old son and he loves 
 * People who appreciate software by a developer who charges about ten times too little money, is responsive on the forum and groups, has been issuing consistent amazing updates over 10 years, and seems to be driven by artistry more than industry
 * People with software development backgrounds who can appreciate the elegance of componentization via MetaModules
 * People who despise the Musical Industrial Complex
+* People who would rather go to the dentist than NAMM
 
 ### People who should not learn SunVox (yet)
 * People who are new enough to music production where they have it all figured out
-* People who get really frustrated when some music software doesn't do exactly what they want in the way that they want it
-* People who spend more time comparing the pros and cons of different DAWS than actually making music
-* People who go to NAMM and find it really exciting and enjoyable
+* People who get really frustrated when some music software doesn't do exactly what they want in the way that they want it, and spend more time being frustrated by this than making music
+* People who spend more time comparing the pros and cons of different DAWS than making music
 * People who are insecure that famous producers are using certain plugins they don't know about and that if they don't find out what they are and use them too they will never be famous either
 * People who want to master a certain current genre in a way that quickly gives them a shot at becoming popular (there's nothing at all wrong with wanting this, and if so, the best approach will be to study the many tutorials out there for more conventional DAWs in the genre you are looking to target. Just beware that this is the path thousands of others are taking too. See the difference between the Blue Ocean and the Red Ocean.)
 * People who don't want to deal with numbers and discreet values
+* People who look forward to NAMM and find it really exciting and enjoyable
 
 ---
 

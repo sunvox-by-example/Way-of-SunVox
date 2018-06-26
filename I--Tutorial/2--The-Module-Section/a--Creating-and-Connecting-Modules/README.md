@@ -4,8 +4,7 @@ _Morpheus: No, Neo. I’m trying to tell you that when you’re ready, you won�
 
 ## Creating and Connecting Modules
 
-![](tutorial_1a.gif "Tutorial 1 Gif 1")
-
+![](tutorial_2a.gif "Tutorial 1 Gif 1")
 
 1. Move the mouse up to the menu icon in the center right window, which is the module window.
 
