@@ -38,7 +38,7 @@ This resource lives in a Github "Repo". Generallly Github is used to host code, 
 1. Via links (see the Sitemap below on this page) that are in the text associated with each section (the _README.md_ file)
 2. Deeper/forwards into the site via the file structure box provided by Github (viewable above), and outward/backwards via the breadcrumb/path (listed right above the file structure box.)
 
-Additionally, if you want to work locally from your laptop while not being connected to the internet, you can do so by downloading this entire repo and opening the files locally (select the green _Clone or Download_ link above) However note that the animated gifs will no longer be embedded in the .md docs, the links in the .md docs will no longer be active, and you will be reading raw markdown.
+Additionally, if you want to work locally from your computer while not being connected to the internet, you can do so by downloading this entire repo and opening the files locally (select the green `Clone or Download` button above) However note that the animated gifs will no longer be embedded in the .md docs, the links in the .md docs will no longer be active, and you will be reading raw markdown.
 
 The optimal workflow is probably to download the repo so you have all the sunvox sessions, but read through the content here in Github.
 
@@ -48,6 +48,6 @@ Contributions to this repo are welcome, and Github  allows for easy contribution
 
 ---
 
-_First Tutorial: [What is SunVox](I--Tutorial/a--What-is-SunVox)_
+_First Tutorial: [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox)_
 
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
