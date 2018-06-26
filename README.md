@@ -27,7 +27,7 @@ II. The [reference](II--Reference) includes descriptions, documentation, and exa
 
 III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
 
-Link to [complete sitemap](Sitemap.md).
+[Link to complete sitemap](Sitemap.md).
 
 Some content is reprinted from the official [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en#effects) - when this is the case the text will appear in `code blocks`.
 

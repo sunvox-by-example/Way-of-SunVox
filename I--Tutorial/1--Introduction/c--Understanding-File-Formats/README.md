@@ -1,8 +1,6 @@
 # Understanding File Formats
 
-_Neo: What are you trying to tell me? That I can dodge bullets?_
 
-_Morpheus: No, Neo. I’m trying to tell you that when you’re ready, you won’t have to._
 
 There are two primary file formats used by SunVox.
 
