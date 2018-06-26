@@ -1,4 +1,4 @@
-# Waveshaper
+# Sound2Ctl
 
 ---
 

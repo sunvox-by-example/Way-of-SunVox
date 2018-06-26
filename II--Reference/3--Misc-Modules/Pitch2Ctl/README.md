@@ -1,4 +1,4 @@
-# Waveshaper
+# Pitch2Ctl
 
 ---
 
