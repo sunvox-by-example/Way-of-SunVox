@@ -1,7 +1,5 @@
 # Understanding File Formats
 
-
-
 There are two primary file formats used by SunVox.
 
 One is a `sunvox` file. This a saved project.

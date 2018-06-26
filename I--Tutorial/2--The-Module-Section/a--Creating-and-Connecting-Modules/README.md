@@ -1,10 +1,8 @@
-## Creating and Connecting Modules
-
 _Neo: What are you trying to tell me? That I can dodge bullets?_
 
 _Morpheus: No, Neo. I’m trying to tell you that when you’re ready, you won’t have to._
 
----
+## Creating and Connecting Modules
 
 ![](tutorial_1a.gif "Tutorial 1 Gif 1")
 
