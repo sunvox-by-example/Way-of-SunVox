@@ -1,4 +1,3 @@
-# Way of the SunVox
 _There is no way to describe what a warrior should do other than he should adhere to
 the Way of the warrior (Bushido)._
 
@@ -14,6 +13,8 @@ _It means nothing more than this._
 _If you keep your spirit correct from morning to night, accustomed to the idea of death and resolved on death, and consider yourself as a dead body, thus becoming one with the Way of the warrior, you can pass through life with no possibility of failure_
 
 _- Miyamoto Musashi_
+
+# Way of the SunVox
 
 ## About
 
