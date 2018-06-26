@@ -17,7 +17,7 @@ _- Miyamoto Musashi_
 
 ## About
 
-This is a resource for the music creation application SunVox.
+This is a resource for the music creation application [SunVox](http://www.warmplace.ru/soft/sunvox/).
 
 It is divided into 3 main sections - a [tutorial](I--Tutorial), a [reference](II--Reference), and a [library](III--Library) of sunsyths.
 
@@ -27,9 +27,9 @@ II. The [reference](II--Reference) includes descriptions, documentation, and exa
 
 III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
 
-[Link to complete sitemap](Sitemap.md).
+[(Link to complete sitemap)](Sitemap.md).
 
-Some content is reprinted from the official [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en#effects) - when this is the case the text will appear in `code blocks`.
+Some content is reprinted from the official  - when this is the case the text will appear in `code blocks`.
 
 The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword" or the "Way of the Warrior", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists, poets, and musicians in Japan's history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative expressions.
 
