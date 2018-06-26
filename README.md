@@ -23,9 +23,9 @@ It is divided into 3 main sections - a [tutorial](I--Tutorial), a [reference](II
 
 I. The [tutorial](Tutorial) guides the user through the music creation process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as example SunVox projects are provided for reference. When a technique or documentation is drawn from a forum post or another creator, that creator is credited.
 
-II. The [reference](II--Reference) includes descriptions, documentation, and examples of each type of native module, each type of pattern effect, and a collection of techniques, approaches, and strategies with documentation and example _sunvox_ projects.
+II. The [reference](II--Reference) includes descriptions, documentation, and examples of each type of native module, each type of pattern effect, and a collection of techniques, approaches, and strategies with documentation and example `sunvox` projects.
 
-III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
+III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the `sunsynth` file format).
 
 [(Link to complete sitemap)](Sitemap.md).
 
