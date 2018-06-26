@@ -115,4 +115,6 @@ Interestingly, it also happens to fit well with the quarter note rhythms typical
 
 ---
 
+_Next Tutorial: [Creating and Connecting Modules](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/I--Tutorial/3--The-Module-Section/a--Creating-and-Connecting-Modules)_
+
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
