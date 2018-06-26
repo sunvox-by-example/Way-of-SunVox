@@ -12,4 +12,4 @@ The MetaModule, introduced in version xx, is a special type of module that signi
 
 ---
 
-[(Sitemap)](../../Sitemap.md)
+[(Sitemap)](../../../Sitemap.md)
