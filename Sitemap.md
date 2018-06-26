@@ -1,7 +1,5 @@
 # Sitemap
 
-_This is the key to a new order. This code disc means freedom. - Tron (1982)_
-
 ## [I. Tutorial](I--Tutorial)
 #### [Introduction](I--Tutorial/1--Introduction)
 * [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox)
