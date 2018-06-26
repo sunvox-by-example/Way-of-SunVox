@@ -10,7 +10,7 @@
 
 `4. Inverse amplitude: ? [0 - off; 1 - on]`
 
-`5. Width: affects the stereo width of the signal, either collapsing it (reducing the stereo information) or expanding it (increasing it so it sounds wider, but may run into phase issues on stereo systems) [0 - mono; 128 - normal; 256 - extended)`
+`5. Width: affects the stereo width of the signal, either collapsing it (reducing the stereo information) or expanding it (increasing it so it sounds wider, but may run into phase issues on mono systems) [0 - mono; 128 - normal; 256 - extended)`
 
 `6. Absolute: filters the signal to only allow positive values (above the x-axis) of the waveform [0 - off; 1 - on]`
 
