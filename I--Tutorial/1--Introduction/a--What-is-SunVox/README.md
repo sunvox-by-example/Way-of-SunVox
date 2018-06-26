@@ -1,6 +1,6 @@
-# What is SunVox?
-
 _This is the key to a new order. This code disc means freedom. - Tron (1982)_
+
+# What is SunVox?
 
 SunVox is a modular sound design environment with a tracker based sequencer. The sound design environment is modular much in the same way as a modular synthesizer, but its capabilities extend far beyond what you might expect from a modular synth. The tracker based sequencer is derived from the original tracker based sequencers (Atari ST, Amiga, Commodore 64) which predated modern day DAWs (Ableton, Logic, etc.) As it turns out, however, progress is not always in a straight line, and a tracker based approach still holds many advantages over the more "modern" graphical approaches. If you dislike all the mousing around that comes with working in a DAW, you will appreciate a tracker based workflow. In some ways you could compare working in a DAW with your computer's GUI (ie. the finder on a MAC) and working in SunVox with working on the command line (ie. Terminal).
 
