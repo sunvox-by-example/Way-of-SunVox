@@ -20,4 +20,6 @@ _Morpheus: No, Neo. I’m trying to tell you that when you’re ready, you won�
 
 ---
 
+_Next Tutorial: [Module Commands](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/I--Tutorial/2--The-Module-Section/b--Module-Commands)_
+
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)

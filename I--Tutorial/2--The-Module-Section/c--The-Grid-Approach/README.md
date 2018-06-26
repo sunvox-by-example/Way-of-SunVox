@@ -20,4 +20,6 @@ The focus is on building using the grid approach, where the main session include
 
 ---
 
+_Next Tutorial: [Navigation](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/I--Tutorial/2--The-Module-Section/c--The-Grid-Approach)_
+
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)

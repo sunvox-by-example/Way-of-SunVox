@@ -16,4 +16,6 @@ _Life is like a wheel, rolling on and on. - Iron Maiden_
 
 ---
 
+_Next Tutorial: [Creating and Connecting Modules](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/I--Tutorial/2--The-Module-Section/a--Creating-and-Connecting-Modules)_
+
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
