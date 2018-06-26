@@ -2,11 +2,11 @@
 
 ![](amplifier.png)
 
-`1. Volume: affects the volume of whatever passes through the module [0...1024] `
+1. Volume: affects the volume of whatever passes through the module [0...1024]
 
-`2. Panning: affects the stereo balance of the signal, panning left when a negative value and right when a positive value [-128...128]`
+2. Panning: affects the stereo balance of the signal, panning left when a negative value and right when a positive value [-128...128]
 
-`3. DC offset: when not 0 offsets the mean amplitude of the waveform to some positive or negative value [-128...128]`
+3. DC offset: when not 0 offsets the mean amplitude of the waveform to some positive or negative value [-128...128]
 
 `4. Inverse amplitude: ? [0 - off; 1 - on]`
 
