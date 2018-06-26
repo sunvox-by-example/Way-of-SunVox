@@ -113,4 +113,4 @@ Interestingly, it also happens to fit well with the quarter note rhythms typical
 
 ---
 
-[(Sitemap)](../../../Sitemap.md)
+[(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)

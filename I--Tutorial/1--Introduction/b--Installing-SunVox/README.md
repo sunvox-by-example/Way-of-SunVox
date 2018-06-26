@@ -13,4 +13,4 @@ _[Creating and Connecting Modules](../2--UI-The-Module-Section)_
 
 ---
 
-[(Sitemap)](../../../Sitemap.md)
+[(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)

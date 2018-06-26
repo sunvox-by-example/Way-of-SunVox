@@ -12,4 +12,4 @@ The MetaModule, introduced in version xx, is a special type of module that signi
 
 ---
 
-[(Sitemap)](../../../Sitemap.md)
+[(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)

@@ -4,4 +4,4 @@ The focus is on building using the grid approach, where the main session include
 
 ---
 
-[(Sitemap)](../../../Sitemap.md)
+[(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
