@@ -27,6 +27,8 @@ II. The [reference](II--Reference) includes descriptions, documentation, and exa
 
 III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc - see the related tutorial [Understanding File Formats](Tutorial/1--Introduction/c--Understanding-File-Formats) for more information on the _sunsynth_ file format).
 
+Link to [complete sitemap](Sitemap.md).
+
 Some content is reprinted from the official [manual](http://www.warmplace.ru/wiki/doku.php?id=sunvox:manual_en#effects) - when this is the case the text will appear in `code blocks`.
 
 The name "Way of the SunVox" is a combination of internet-speak and a reference to the "Way of the Sword" or the "Way of the Warrior", coined by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from duelling, he turned his back on the potential for a school or royal patronage in order to live the life of a creative aesthetic, and went on to become one of the greatest artists, poets, and musicians in Japan's history. His entire life was dedicated to the study of "strategy", forged in battle and then applied to all creative expressions.
@@ -43,42 +45,3 @@ Additionally, if you want to work locally from your laptop while not being conne
 ## Contributing
 
 Contributions to this repo are welcome, and Github  allows for easy contributions if you are familiar with the interface. If you'd like to contribute but don't want to take the time to learn github, just email me your contributions to mreveley (at) gmail.com.
-
-## Sitemap
-
-## [I. Tutorial](I--Tutorial)
-#### [Introduction](I--Tutorial/1--Introduction)
-* [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox)
-* [Installing SunVox](I--Tutorial/1--Introduction/b--Installing-SunVox)
-* [Understanding file Formats](I--Tutorial/1--Introduction/c--Understanding-File-Formats)
-* [Understanding Hexadecimal](I--Tutorial/1--Introduction/d--Understanding-Hexadecimal)
-
-#### [The Module Section](I--Tutorial/2--The-Module-Section)
-* [Creating and Connecting Modules](I--Tutorial/2--The-Module-Section/a--Creating-and-Connecting-Modules)
-* [Commands](I--Tutorial/2--The-Module-Section/b--Commands)
-* [The Grid Approach](I--Tutorial/2--The-Module-Section/c--The-Grid-Approach)
-* [Navigation](I--Tutorial/2--The-Module-Section/d--Navigation)
-
-#### [The Controller Section](I--Tutorial/3--The-Controller-Section)
-* [Editing Controllers](I--Tutorial/3--The-Controller-Section/a--Editing-Controllers)
-
-#### [The Timeline Section](I--Tutorial/4--The-Timeline-Section)
-* [Creating and Arranging Patterns](I--Tutorial/4--The-Timeline-Section/a--Creating-and-Arranging-Patterns)
-
-#### [The Pattern Editor Section](I--Tutorial/5--The-Pattern-Editor-Section)
-* [Editing Patterns](I--Tutorial/5--The-Pattern-Editor-Section/1-Editing-Patterns)
-* [Events](I--Tutorial/5--The-Pattern-Editor-Section/2-Events)
-* [Pattern Effects](I--Tutorial/5--The-Pattern-Editor-Section/3-Pattern-Effects)
-* [The Interpolator](I--Tutorial/5--The-Pattern-Editor-Section/4-The-Interpolator)
-
-
-## [II. Reference](II--Reference)
-#### [Sound Generation Modules](II--Reference/6--Modules-Sound-Generators)
-#### [Effect Modules](II--Reference/7--Modules-Effects)
-#### [Misc Modules](II--Reference/8--Modules-Misc)
-#### [Techniques / Approaches / Strategies](II--Reference/9--Techniques-Approaches-Strategies)
-
-
-## [III. Library](III--Library)
-#### [Effects](III--Library/Effects)
-#### [Synths / Samplers](II--Library/Synths-Samplers)

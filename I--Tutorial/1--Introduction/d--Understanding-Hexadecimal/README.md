@@ -110,3 +110,7 @@ Hex gives you two advantages here:
 You can show the full range of numbers of a “byte” using two digits (00-ff) instead of three with decimal (0-255).
 You can work more directly with what’s in the computer’s memory, which can lead to smaller and more efficient code.
 Interestingly, it also happens to fit well with the quarter note rhythms typical of music! After understanding, then practice, it will be familiar and comfortable for you to use.
+
+---
+
+[(Sitemap)](../../Sitemap.md)

@@ -16,3 +16,7 @@ The outside crowd`
 2. This section is a series of sliders that correspond to the parameters of the module, ie. what you can change to alter the sound of the module. In SunVox these parameters are called controllers, and this window is the controller section.
 
 3. As in the gif above, experiment with changing the paramters and then playing the module with keyboard to hear how changes alter the sound.
+
+---
+
+[(Sitemap)](../../Sitemap.md)

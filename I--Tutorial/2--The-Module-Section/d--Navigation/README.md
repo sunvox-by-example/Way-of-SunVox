@@ -14,3 +14,7 @@
     PREVIOUS MODULE HORIZONTALLY (Default: CTRL + Left)
     ```
     Horizontally here is measured by the module with the nearest location on the x-axis to the currently selected module. This can be counterintuitive at first because you naturally expect it to be the next or previous adjoining module horizontally, but horizontal here is very literal. One option to create this behavior is to arrange your modules in a grid.
+
+    ---
+
+    [(Sitemap)](../../Sitemap.md)

@@ -15,3 +15,7 @@
 `6. Absolute: filters the signal to only allow positive values (above the x-axis) of the waveform [0 - off; 1 - on]`
 
 `7. Fine volume: affects fine volume (0 - 32768)`
+
+---
+
+[(Sitemap)](../../Sitemap.md)
