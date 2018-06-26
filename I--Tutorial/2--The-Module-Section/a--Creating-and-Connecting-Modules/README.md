@@ -1,6 +1,7 @@
-_Neo: What are you trying to tell me? That I can dodge bullets?_
-
-_Morpheus: No, Neo. I’m trying to tell you that when you’re ready, you won’t have to._
+_You should not have a favourite weapon. To become over-familiar with one
+weapon is as much a fault as not knowing it sufficiently well. You should not copy others,
+but use weapons which you can handle properly. It is bad for commanders and troops to
+have likes and dislikes. These are things you must learn thoroughly. - Miyamoto Musashi_
 
 ## Creating and Connecting Modules
 

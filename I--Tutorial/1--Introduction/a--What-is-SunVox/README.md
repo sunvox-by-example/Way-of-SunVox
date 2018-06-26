@@ -1,4 +1,8 @@
-_This is the key to a new order. This code disc means freedom. - Tron (1982)_
+_Timing is important in dancing and pipe or string music, for they are in rhythm only
+if timing is good. Timing and rhythm are also involved in the military arts, shooting bows
+and guns, and riding horses. In all skills and abilities there is timing._
+
+_There is also timing in the Void. - Miyamoto Musashi_
 
 # What is SunVox?
 

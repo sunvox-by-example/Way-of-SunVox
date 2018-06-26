@@ -1,4 +1,8 @@
-### Navigation
+_If he attains the virtue of the long sword, one man can beat ten men. Just as one man can beat ten, so a hundred men can beat a thousand, and a thousand men can beat ten thousand.
+In my strategy, one man is the same as ten thousand, so this strategy is the complete
+warrior's craft. - Miyamoto Musashi_
+
+# Navigation
 - __Move between modules by ID__
   ```
   Assignable Shortcuts:

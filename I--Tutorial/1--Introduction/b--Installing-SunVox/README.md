@@ -1,5 +1,7 @@
-_Uniform printout reads end of line. Protect code intact leaves little time._
-_Erratic surveys, free thinking not allowed. My hands shake, my push buttons silence the outside crowd - Queensryche_
+_The Way of the warrior does not include other Ways, such as Confucianism,
+Buddhism, certain traditions, artistic accomplishments and dancing.'" But even though
+these are not part of the Way, if you know the Way broadly you will see it in everything.
+Men must polish their particular Way. - Miyamoto Musashi_
 
 # Installing SunVox
 

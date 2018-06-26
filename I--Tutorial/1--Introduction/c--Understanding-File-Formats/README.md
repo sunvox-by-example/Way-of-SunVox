@@ -1,3 +1,7 @@
+_One of the virtues of the bow is that you can see the arrows in flight and correct
+your aim accordingly, whereas gunshot cannot be seen. You must appreciate the
+importance of this. - Miyamoto Musashi_
+
 # Understanding File Formats
 
 There are two primary file formats used by SunVox.

@@ -1,3 +1,5 @@
+_There is timing in everything. Timing in strategy cannot be mastered without a great deal
+of practice. - Miyamoto Musashi_
 
 # Module Section Commands
 

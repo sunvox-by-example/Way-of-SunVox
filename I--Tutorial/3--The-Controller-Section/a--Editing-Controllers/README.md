@@ -1,6 +1,6 @@
-## Tutorial 2: Editing Module Parameters
+_Do nothing which is of no use. -Miyamoto Musashi_ 
 
-_We're on a mission from God - The Blues Brothers_
+## Tutorial 2: Editing Module Parameters
 
 ---
 

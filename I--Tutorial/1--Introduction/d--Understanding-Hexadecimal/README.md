@@ -1,4 +1,7 @@
-_Microchip logic, have we no more thoughts. "Is this wrong" I enter, Answers sought. Punch, punch, punch, transfer this data into code. Wide eyes watch my Number 156 is shown. - Queensryche_
+_Just as a horse must have endurance and no defects, so it is with weapons.
+Horses should walk strongly, and swords and companion swords should cut strongly.
+Spears and halberds must stand up to heavy use: bows and guns must be sturdy.
+Weapons should be hardy rather than decorative. - Miyamoto Musashi_
 
 ## Understanding Hexadecimal
 
