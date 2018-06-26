@@ -1,6 +1,6 @@
 _Microchip logic, have we no more thoughts. "Is this wrong" I enter, Answers sought. Punch, punch, punch, transfer this data into code. Wide eyes watch my Number 156 is shown. - Queensryche_
 
-## 1d - Understanding Hexadecimal
+## Understanding Hexadecimal
 
 NOTE: Understanding hexadecimal is not mission critical when starting to learn SunVox, if learning about hex feels like it will slow your progress or if you feel like you'd just like to get more of a feel for the app first,  skip this section to come back later. But if you're up for it, read through this now to get a sense of how and why hex is used in SunVox.
 

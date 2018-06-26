@@ -1,4 +1,4 @@
-### 2d - Navigation
+### Navigation
   - __Move between modules by ID__
     ```
     Assignable Shortcuts:
