@@ -4,6 +4,8 @@ You must study hard. - Miyamoto Musashi_
 
 # Way of SunVox
 
+![](SunVox.jpg)
+
 ## About
 
 This is a resource for the music creation application [SunVox](http://www.warmplace.ru/soft/sunvox/).
