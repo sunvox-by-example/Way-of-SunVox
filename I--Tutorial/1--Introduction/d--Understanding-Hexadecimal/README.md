@@ -5,7 +5,7 @@ Weapons should be hardy rather than decorative. - Miyamoto Musashi_
 
 ## Understanding Hexadecimal
 
-![](1d.png)
+![](1d.jpg)
 
 NOTE: Understanding hexadecimal is not mission critical when starting to learn SunVox, if learning about hex feels like it will slow your progress or if you feel like you'd just like to get more of a feel for the app first,  skip this section to come back later. But if you're up for it, read through this now to get a sense of how and why hex is used in SunVox.
 
