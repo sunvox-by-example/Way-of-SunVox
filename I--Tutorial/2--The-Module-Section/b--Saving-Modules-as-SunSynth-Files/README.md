@@ -1,20 +1,6 @@
-_One of the virtues of the bow is that you can see the arrows in flight and correct
-your aim accordingly, whereas gunshot cannot be seen. You must appreciate the
-importance of this. - Miyamoto Musashi_
+# Saving Modules as SunSynths
 
-# Understanding File Formats
-
-There are two primary file formats used by SunVox.
-
-## I. The `sunvox` file
-
-The `sunvox` file is the root level file which contains the entire project. `sunvox` files are saved self-contained, meaning all audio referenced by the file is copied and saved into the file itself. This way you never have to worry about opening a session and finding out that audio could not be read because it was moved.
-
-How to save a `sunvox` file:
-
-![](1c_1.gif)
-
-## The `sunsynth` file
+## II. The `sunsynth` file
 
 The SunSynth is a saved snapshot of the state of a module, including the state of its controllers (or parameters). You can think of this as similar to a plugin, chain of plugins, or preset in other music making apps, but simpler and more easily defined. One of the coolest things about SunVox is how everything is build up from module primitives native to the app, so the line between "instrument", "plugin", "preset", different UI's, etc as in most music creation environments, is non-existent. SunVox sits at a level of abstraction below a traditional DAW (ie. Ableton, Logic, etc) but above a musical coding environment (ie. MaxMSP, Reaktor, SuperCollider, Pure Data, etc.) This turns out to be ideal for being able to design any sound you want in a really powerful but simple interface, but not get sucked into instrument design/coding concerns, which can easily move in to replace the music making process using lower level environments.
 
@@ -24,12 +10,4 @@ As with `sunvox` files, `sunsynth` files are also saved completely self containe
 
 How to save a `sunsynth` file:
 
-![](1c_2.gif)
-
-Both `sunvox` and `sunsynth` files are completely self contained - when you save them, all audio referenced by the file is saved within it.
-
----
-
-_Next Tutorial: [Understanding Hexadecimal](../d--Understanding-Hexadecimal)_
-
-[(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
+![](2b.gif)
