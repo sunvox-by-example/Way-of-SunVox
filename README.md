@@ -12,11 +12,11 @@ This is a resource for the music creation application [SunVox](http://www.warmpl
 
 It is divided into 3 main sections - a tutorial, a reference, and a library of modules.
 
-I. The [tutorial](Tutorial) guides the user through the music creation process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as example SunVox projects are provided for reference. When a technique or documentation is drawn from a forum post or another creator, that creator is credited. To begin the tutorial, start here: [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox).
+I. The [tutorial](I--Tutorial) guides the user through the music creation process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as example SunVox projects are provided for reference. When a technique or documentation is drawn from a forum post or another creator, that creator is credited. To begin the tutorial, start here: [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox).
 
 II. The [reference](II--Reference) includes descriptions, documentation, and examples of each type of native module, each type of pattern effect, and a collection of techniques, approaches, and strategies with documentation and example `sunvox` projects.
 
-III. The [library](Library) of modules is a collection of instruments, effects, presets, etc. in the `sunsynth` file format.
+III. The [library](III--Library) of modules is a collection of instruments, effects, presets, etc. in the `sunsynth` file format.
 
 The name "Way of SunVox" is a reference to the "Way of Strategy" as written by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt). This final work was dictated by Musashi to his understudy by his deathbed in a cave in 1645, recorded on one complete scroll. Musashi was undefeated in over 30 duels to the death, eventually fighting with wooden kendo swords instead of steel. Upon retiring from dueling, he turned his back on any potential to start a school or enjoy royal patronage in order to live the life of a creative aesthetic. Musashi went on to become one of the greatest artists, poets, philosophers, and musicians in Japan's history. His entire life was dedicated to the way of strategy, forged in battle and then applied to all creative expression.
 
