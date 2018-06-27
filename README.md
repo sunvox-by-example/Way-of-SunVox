@@ -18,11 +18,9 @@ II. The [reference](II--Reference) includes descriptions, documentation, and exa
 
 III. The [library](Library) of modules is a collection of instruments, effects, presets, etc. in the `sunsynth` file format.
 
-[Sitemap](Sitemap.md).
+The name "Way of SunVox" is a reference to the "Way of Strategy" as written by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt). This final work was dictated by Musashi to his understudy by his deathbed in a cave in 1645, recorded on one complete scroll. Musashi was undefeated in over 30 duels to the death, eventually fighting with wooden kendo swords instead of steel. Upon retiring from dueling, he turned his back on any potential to start a school or enjoy royal patronage in order to live the life of a creative aesthetic. Musashi went on to become one of the greatest artists, poets, philosophers, and musicians in Japan's history. His entire life was dedicated to the way of strategy, forged in battle and then applied to all creative expression.
 
-The name "Way of SunVox" is a reference to the "Way of Strategy" as written by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt). This final work was dictated to Musashi's understudy and recorded on one complete scroll by his deathbed in a cave in 1645. Musashi was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from dueling, he turned his back on any potential to start a school or enjoy royal patronage in order to live the life of a creative aesthetic. Musashi went on to become one of the greatest artists, poets, philosophers, and musicians in Japan's history. His entire life was dedicated to the way of strategy, forged in battle and then applied to all creative expression.
-
-## Layout
+## Workflow
 
 This resource lives in a Github "Repo". Generallly Github is used to host code, but it works well for textual resources too. You can navigate through the repo in two ways:
 
