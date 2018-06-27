@@ -2,23 +2,23 @@ _From one thing, know ten thousand
 things. When you attain the Way of strategy there will not be one thing you cannot see.
 You must study hard. - Miyamoto Musashi_
 
-# Way of the SunVox
+# Way of SunVox
 
 ## About
 
 This is a resource for the music creation application [SunVox](http://www.warmplace.ru/soft/sunvox/).
 
-It is divided into 3 main sections - a tutorial, a reference, and a library of sunsyths.
+It is divided into 3 main sections - a tutorial, a reference, and a library of modules.
 
 I. The [tutorial](Tutorial) guides the user through the music creation process in SunVox, working from the basics up through more advanced techniques. Animated gifs with text descriptions as well as example SunVox projects are provided for reference. When a technique or documentation is drawn from a forum post or another creator, that creator is credited. To begin the tutorial, start here: [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox).
 
 II. The [reference](II--Reference) includes descriptions, documentation, and examples of each type of native module, each type of pattern effect, and a collection of techniques, approaches, and strategies with documentation and example `sunvox` projects.
 
-III. The [library](Library) of sunsynths is a collection of modules (ie. instruments, effects, presets, etc) in the `sunsynth` file format).
+III. The [library](Library) of modules is a collection of instruments, effects, presets, etc. in the `sunsynth` file format.
 
-[(Sitemap)](Sitemap.md).
+[Sitemap](Sitemap.md).
 
-The name "Way of SunVox" is a reference to the "Way of Strategy" as written by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt), dictated to his understudy on his deathbed and written on one complete scroll in 1645. He was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from dueling, he turned his back on any potential to start a school or enjoy royal patronage in order to live the life of a creative aesthetic. Musashi went on to become one of the greatest artists, poets, philosophers, and musicians in Japan's history. His entire life was dedicated to the way of strategy, forged in battle and then applied to all creative expression.
+The name "Way of SunVox" is a reference to the "Way of Strategy" as written by Miyamoto Musashi, the greatest Samurai who ever lived, in his [Book of Five Rings](https://archive.org/stream/MiyamotoMusashi-BookOfFiveRingsgoRinNoSho/Book_of_Five_Rings_djvu.txt). This final work was dictated to Musashi's understudy and recorded on one complete scroll by his deathbed in a cave in 1645. Musashi was undefeated in over 30 duels to the death, eventually even fighting with wooden kendo swords instead of steel. Upon retiring from dueling, he turned his back on any potential to start a school or enjoy royal patronage in order to live the life of a creative aesthetic. Musashi went on to become one of the greatest artists, poets, philosophers, and musicians in Japan's history. His entire life was dedicated to the way of strategy, forged in battle and then applied to all creative expression.
 
 ## Layout
 
