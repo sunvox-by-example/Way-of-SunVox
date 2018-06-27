@@ -12,6 +12,8 @@ The second is the `sunsynth` file. This is a saved snapshot of the state of a mo
 
 The [MetaModule](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/II--Reference/3--Misc-Modules/MetaModule) is a special type of module that significantly adds to the power of SunVox as well as what can be saved as a `sunsynth` file. MetaModules are modules which hold within them entirely separate `sunvox` files from the `sunvox` file that hosts them. This means that the MetaModule can host instruments, effect chain, sequencers, entire projects, and anything else you can dream up that uses the full power of SunVox. The only limit to how many or how deeply these can be nested is CPU. As you can imagine this becomes very meta and very powerful. Each `sunsynth` becomes a resuseable component, with components being nestable. For you programmers out there, this becomes a lot like functional programming. For you non-programmers out there, this is a way to separate concerns and work with a system where you can reuse your work in future sessions quickly and easily.
 
+Both `sunvox` and `sunsynth` files are completely self contained - when you save them, all audio referenced by the file is saved within it. This way you never have to worry about opening a session and finding out that audio could not be read because it was moved. 
+
 ---
 
 _Next Tutorial: [Understanding Hexadecimal](../d--Understanding-Hexadecimal)_

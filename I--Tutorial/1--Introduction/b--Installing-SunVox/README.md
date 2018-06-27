@@ -1,5 +1,5 @@
 _The Way of the warrior does not include other Ways, such as Confucianism,
-Buddhism, certain traditions, artistic accomplishments and dancing.'" But even though
+Buddhism, certain traditions, artistic accomplishments and dancing. But even though
 these are not part of the Way, if you know the Way broadly you will see it in everything.
 Men must polish their particular Way. - Miyamoto Musashi_
 

@@ -1,6 +1,8 @@
 _From one thing, know ten thousand
 things. When you attain the Way of strategy there will not be one thing you cannot see.
-You must study hard. - Miyamoto Musashi_
+You must study hard._
+
+_- Miyamoto Musashi_
 
 # Way of SunVox
 
