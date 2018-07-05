@@ -1,25 +1,25 @@
 # Sitemap
 
 ## [I. Tutorial](I--Tutorial)
-#### [Introduction](I--Tutorial/1--Introduction)
+#### [1. Introduction](I--Tutorial/1--Introduction)
 * [What is SunVox](I--Tutorial/1--Introduction/a--What-is-SunVox)
 * [Installing SunVox](I--Tutorial/1--Introduction/b--Installing-SunVox)
-* [Understanding file Formats](I--Tutorial/1--Introduction/c--Understanding-File-Formats)
-* [Understanding Hexadecimal](I--Tutorial/1--Introduction/d--Understanding-Hexadecimal)
+* [Saving and Loading `sunvox` Files (Projects)](I--Tutorial/1--Introduction/c--Saving-and-Loading-sunvox-Files-Projects)
 
-#### [The Module Section](I--Tutorial/2--The-Module-Section)
+#### [2. The Module Section](I--Tutorial/2--The-Module-Section)
 * [Creating and Connecting Modules](I--Tutorial/2--The-Module-Section/a--Creating-and-Connecting-Modules)
-* [Commands](I--Tutorial/2--The-Module-Section/b--Commands)
-* [The Grid Approach](I--Tutorial/2--The-Module-Section/c--The-Grid-Approach)
-* [Navigation](I--Tutorial/2--The-Module-Section/d--Navigation)
+* [Saving and Loading Modules as `sunsynth` Files](I--Tutorial/2--The-Module-Section/b--Saving-and-Loading-Modules-as-sunsynth-Files)
+* [Module Commands](I--Tutorial/2--The-Module-Section/c--Module-Commands)
+* [The Grid Approach](I--Tutorial/2--The-Module-Section/d--The-Grid-Approach)
+* [Navigation](I--Tutorial/2--The-Module-Section/e--Navigation)
 
-#### [The Controller Section](I--Tutorial/3--The-Controller-Section)
+#### [3. The Controller Section](I--Tutorial/3--The-Controller-Section)
 * [Editing Controllers](I--Tutorial/3--The-Controller-Section/a--Editing-Controllers)
 
-#### [The Timeline Section](I--Tutorial/4--The-Timeline-Section)
+#### [4. The Timeline Section](I--Tutorial/4--The-Timeline-Section)
 * [Creating and Arranging Patterns](I--Tutorial/4--The-Timeline-Section/a--Creating-and-Arranging-Patterns)
 
-#### [The Pattern Editor Section](I--Tutorial/5--The-Pattern-Editor-Section)
+#### [5. The Pattern Editor Section](I--Tutorial/5--The-Pattern-Editor-Section)
 * [Editing Patterns](I--Tutorial/5--The-Pattern-Editor-Section/1-Editing-Patterns)
 * [Events](I--Tutorial/5--The-Pattern-Editor-Section/2-Events)
 * [Pattern Effects](I--Tutorial/5--The-Pattern-Editor-Section/3-Pattern-Effects)
@@ -27,7 +27,7 @@
 
 
 ## [II. Reference](II--Reference)
-#### [Sound Generation Modules](II--Reference/1--Sound-Generation-Modules)
+#### [1. Sound Generation Modules](II--Reference/1--Sound-Generation-Modules)
 * [Analog Generator](II--Reference/1--Sound-Generation-Modules/Analog-Generator)
 * [DrumSynth](II--Reference/1--Sound-Generation-Modules/DrumSynth)
 * [FM](II--Reference/1--Sound-Generation-Modules/FM)
@@ -37,7 +37,7 @@
 * [Sampler](II--Reference/1--Sound-Generation-Modules/Sampler)
 * [SpectraVoice](II--Reference/1--Sound-Generation-Modules/SpectraVoice)
 * [Vorbis-Player](II--Reference/1--Sound-Generation-Modules/Vorbis-Player)
-#### [Effect Modules](II--Reference/2--Effect-Modules)
+#### [2. Effect Modules](II--Reference/2--Effect-Modules)
 * [Amplifier](II--Reference/2--Effect-Modules/Amplifier)
 * [Compressor](II--Reference/2--Effect-Modules/Compressor)
 * [DC Blocker](II--Reference/2--Effect-Modules/DC-Blocker)
@@ -56,7 +56,7 @@
 * [Vibrato](II--Reference/2--Effect-Modules/Vibrato)
 * [Vocal-Filter](II--Reference/2--Effect-Modules/Vocal-Filter)
 * [Waveshaper](II--Reference/2--Effect-Modules/Waveshaper)
-#### [Misc Modules](II--Reference/8--Misc-Modules)
+#### [3. Misc Modules](II--Reference/8--Misc-Modules)
 * [Feedback](II--Reference/8--Misc-Modules/Feedback)
 * [Glide](II--Reference/8--Misc-Modules/Glide)
 * [GPIO](II--Reference/8--Misc-Modules/GPIO)
@@ -66,11 +66,18 @@
 * [Pitch2Ctl](II--Reference/8--Misc-Modules/Pitch2Ctl)
 * [Sound2Ctl](II--Reference/8--Misc-Modules/Sound2Ctl)
 * [Velocity2Ctl](II--Reference/8--Misc-Modules/Velocity2Ctl)
-#### [Techniques / Approaches / Strategies](II--Reference/9--Techniques-Approaches-Strategies)
-* (todo)
+#### [5. Main Menu](I--Tutorial/2--Reference/5--Main-Menu)
+#### [6. Preferences](I--Tutorial/2--Reference/6-Preferences)
+#### [7. Project Properties](I--Tutorial/2--Reference/7-Project-Properties)
+#### [8. External Links](I--Tutorial/2--Reference/8-External-Links)
+
 
 ## [III. Library](III--Library)
-#### [Sound Generators](III--Library/1--Sound-Generators)
+#### [1. Sound Generators](III--Library/1--Sound-Generators)
 * (todo)
-#### [Effects](III--Library/2--Effects)
+
+#### [2. Effects](III--Library/2--Effects)
+* (todo)
+
+#### [3. Techniques](II--Reference/9--Techniques)
 * (todo)

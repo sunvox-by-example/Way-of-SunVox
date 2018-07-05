@@ -15,12 +15,12 @@ have likes and dislikes. These are things you must learn thoroughly. - Miyamoto 
 
 4. Press return to select and create the module.
 
-5. Holding shift, drag from the newly created module to the output module. This will connect them, and introduce a one way signal flow between them. Imagine the line is a cable which can either carry audio or midi information, with the flow of information always heading towards the output module, which connects to the system preference selected for audio output (ie. whether you are using the deafult sound through your laptop speakers or a 3rd party soundcard).
+5. Holding shift, drag from the newly created module to the output module. This will connect them, and introduce a one way signal flow between them. Imagine the line is a cable which can either carry audio or midi information, with the flow of information always going from the first module the connection was created at (the first module you click to drag) and the second module (where you released the mouse to make the connection). The first module is the source, the second is the destination. To hear anything, you must eventually connect your patch to the output module, which connects to the system preference selected for audio output (ie. whether you are using the deafult sound through your laptop speakers or a 3rd party soundcard).
 
 6. Make sure the new module is selected, and click on the keyboard above the module section to hear the module playing. Whatever module is selected in the module window will receive midi note input.
 
 ---
 
-_Next Tutorial: [Module Commands](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/I--Tutorial/2--The-Module-Section/b--Module-Commands)_
+_Next Tutorial: [Saving and Loading Modules as `sunsynth` Files](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/tree/master/I--Tutorial/2--The-Module-Section/b--Saving-and-Loading-modules-as-sunsynth-files)_
 
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)

@@ -11,6 +11,6 @@ SunVox runs on a lot of different devices. Probably more than any other music ap
 
 ---
 
-_Next Tutorial: [Understanding File Formats](../c--Understanding-File-Formats), or if you just want to get started with a hands on introduction, you can jump to [Creating and Connecting Modules](../../2--The-Module-Section/a--Creating-and-Connecting-Modules)_
+_Next Tutorial: [Saving and Loading Modules as `sunsynth` Files](../c--Saving-and-Loading-Modules-as-`sunsynth`-Files), or if you just want to get started with a hands on introduction, you can jump to [MCreating and Connecting Modules](../../2--The-Module-Section/a--Creating-and-Connecting-Modules)_
 
 [(Sitemap)](https://github.com/way-of-the-sunvox/Way-of-the-SunVox/blob/master/Sitemap.md)
