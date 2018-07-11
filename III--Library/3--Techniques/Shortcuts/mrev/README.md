@@ -35,13 +35,13 @@
 
 ## Pattern Editor
 
-**Move Left :**  J  |  Left Arrow
+**Move Left :**  S  |  Left Arrow
 
-**Move Right :**  L  |  Right Arrow
+**Move Right :**  F  |  Right Arrow
 
-**Move Up :**  K  |  Up Arrow
+**Move Up :**  D  |  Up Arrow
 
-**Move Down :**  ,  |  Down Arrow
+**Move Down :**  C  |  Down Arrow
 
 **Page Up :**  H
 
@@ -111,13 +111,13 @@
 
 **Previous Synth :** Ctrl + ,
 
-**Next Module Horizontally :** F
+**Next Module Horizontally :** L
 
-**Previous Module Horizontally :** S
+**Previous Module Horizontally :** J
 
-**Next Module Vertically :** C
+**Next Module Vertically :** <
 
-**Previous Module Vertically :** D
+**Previous Module Vertically :** K
 
 **Toggle Mute :** X
 
