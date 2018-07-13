@@ -10,7 +10,7 @@ _- Miyamoto Musashi_
 
 ## About
 
-This is a resource for the music creation application [SunVox](http://www.warmplace.ru/soft/sunvox/).
+This is a tutorial and resource for the music creation application [SunVox](http://www.warmplace.ru/soft/sunvox/).
 
 It is divided into 3 sections - a tutorial, a reference, and a library of modules.
 
